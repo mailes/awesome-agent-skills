@@ -42,7 +42,7 @@
   "slug": "bs-basalt-dev-portfolio",
   "title": "Basalt Dev Portfolio",
   "summary": "Create a complete personal developer portfolio with biography, projects, writing, talks, tools, and career milestones in a focused basalt style. It helps independent builders present a coherent body of work, rather than a disconnected collection of links, when seeking clients, roles, or collaborators.",
-  "category": "web-pages",
+  "category": "marketing",
   "compatibility": [
    "Claude",
    "Codex",
@@ -55,7 +55,7 @@
   "slug": "bs-beacon-saas-landing",
   "title": "Beacon SaaS Landing",
   "summary": "Create a calm SaaS marketing landing page with a focused product narrative, clear sections, and restrained visual emphasis. It helps teams present a new product or waitlist with more clarity and polish than a generic template, while keeping claims grounded in real proof.",
-  "category": "web-pages",
+  "category": "marketing",
   "compatibility": [
    "Claude",
    "Codex",
@@ -103,7 +103,7 @@
   "slug": "bs-cadence-marketing-landing",
   "title": "Cadence Marketing Landing",
   "summary": "Create a dark, motion-rich SaaS landing page that guides visitors through a continuous product story with focused calls to action. It helps launch teams make a modern software offer feel distinctive and easy to understand without relying on generic sections or inflated claims.",
-  "category": "web-pages",
+  "category": "marketing",
   "compatibility": [
    "Claude",
    "Codex",
@@ -610,7 +610,7 @@
   "slug": "bs-sage-sneaker-store",
   "title": "Sage Sneaker Store",
   "summary": "Build a complete multi-page website with a sage hero, oversized white uppercase type, an editorial model photograph, white proof cards and clean product grids. Includes connected content pages and interactive controls, with a reusable visual system for new brands and content.",
-  "category": "web-pages",
+  "category": "marketing",
   "compatibility": [
    "Claude",
    "Codex",
@@ -623,7 +623,7 @@
   "slug": "bs-scattered-cards-magazine",
   "title": "Scattered-Cards Magazine",
   "summary": "Build a complete multi-page website with a white editorial ground, a fan of rotated article cards, a ruled topic index and generous photographic story grids. Includes connected content pages and interactive controls, with a reusable visual system for new brands and content.",
-  "category": "web-pages",
+  "category": "marketing",
   "compatibility": [
    "Claude",
    "Codex",
@@ -636,7 +636,7 @@
   "slug": "bs-scrapbook-resume-site",
   "title": "Scrapbook Resume Site",
   "summary": "A multi-page online resume site in a scrapbook grammar: a lanyard ID badge, a taped contact card, a torn notepaper intro, a cobalt marquee ribbon and a clipboard of sticky-note roles, with pages for Home, Experience plus three role stories, Education, Skills and Tools, Projects plus four case pages, Kind words and Contact. Every name, role and image is original, so you drop in your own story without inheriting anyone else's. Ideal for designers and job seekers who want a CV that feels handmade rather than templated.",
-  "category": "web-pages",
+  "category": "marketing",
   "compatibility": [
    "Claude",
    "Codex",
@@ -654,7 +654,7 @@
    "Claude"
   ],
   "cover": "/skill-media/seedance-2-5-video-director/frame-75.jpg",
-  "downloads": 0
+  "downloads": 3
  },
  {
   "slug": "bs-sky-glass-deck",
@@ -673,7 +673,7 @@
   "slug": "bs-slate-admin-console",
   "title": "Slate Admin Console",
   "summary": "Create a complete SaaS admin console with analytics, finance, customers, planning, and calendar views in a calm, data-first visual system. It helps teams turn operational information into a coherent daily workspace for monitoring, managing, and demonstrating their product.",
-  "category": "web-pages",
+  "category": "design",
   "compatibility": [
    "Claude",
    "Codex",

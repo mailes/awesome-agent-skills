@@ -74,25 +74,26 @@ Machine-readable: [`data/free-skills.json`](data/free-skills.json) · Regenerate
 
 ---
 
-## Design & Creative · 7 skills
+## Design & Creative · 8 skills
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | <a href="https://workskill.tools/skills/bs-chalkboard-infographic"><img src="https://workskill.tools/skill-media/bs-chalkboard-infographic/preview-1.webp" width="180" alt="Chalkboard Infographic"><br><sub><b>Chalkboard Infographic</b></sub></a> | <a href="https://workskill.tools/skills/bs-claude-style-illustration"><img src="https://workskill.tools/skill-media/bs-claude-style-illustration/preview-1.webp" width="180" alt="Claude Style Illustration"><br><sub><b>Claude Style Illustration</b></sub></a> | <a href="https://workskill.tools/skills/bs-grokbot-avatar"><img src="https://workskill.tools/skill-media/bs-grokbot-avatar/preview-1.webp" width="180" alt="GrokBot Avatar"><br><sub><b>GrokBot Avatar</b></sub></a> | <a href="https://workskill.tools/skills/bs-hand-drawn-visual-notes"><img src="https://workskill.tools/skill-media/bs-hand-drawn-visual-notes/preview-1.webp" width="180" alt="Hand-Drawn Visual Notes"><br><sub><b>Hand-Drawn Visual Notes</b></sub></a> | <a href="https://workskill.tools/skills/bs-linktree-style-og"><img src="https://workskill.tools/skill-media/bs-linktree-style-og/preview-1.webp" width="180" alt="Linktree Style OG Image"><br><sub><b>Linktree Style OG Image</b></sub></a> |
-| <a href="https://workskill.tools/skills/bs-monochrome-studio-portrait"><img src="https://workskill.tools/skill-media/bs-monochrome-studio-portrait/preview-1.webp" width="180" alt="Monochrome Studio Portrait"><br><sub><b>Monochrome Studio Portrait</b></sub></a> | <a href="https://workskill.tools/skills/bs-notion-style-og"><img src="https://workskill.tools/skill-media/bs-notion-style-og/preview-1.webp" width="180" alt="Notion Style OG Image"><br><sub><b>Notion Style OG Image</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-monochrome-studio-portrait"><img src="https://workskill.tools/skill-media/bs-monochrome-studio-portrait/preview-1.webp" width="180" alt="Monochrome Studio Portrait"><br><sub><b>Monochrome Studio Portrait</b></sub></a> | <a href="https://workskill.tools/skills/bs-notion-style-og"><img src="https://workskill.tools/skill-media/bs-notion-style-og/preview-1.webp" width="180" alt="Notion Style OG Image"><br><sub><b>Notion Style OG Image</b></sub></a> | <a href="https://workskill.tools/skills/bs-slate-admin-console"><img src="https://workskill.tools/skill-media/bs-slate-admin-console/preview-1.webp" width="180" alt="Slate Admin Console"><br><sub><b>Slate Admin Console</b></sub></a> |
 
-*7 skills — click any card to open its install page.*
+*8 skills — click any card to open its install page.*
 
 
 ---
 
-## Marketing · 1 skills
+## Marketing · 7 skills
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| <a href="https://workskill.tools/skills/linkedin-content"><img src="https://workskill.tools/skill-media/linkedin-content/cover-en.svg" width="180" alt="LinkedIn Content Studio"><br><sub><b>LinkedIn Content Studio</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-basalt-dev-portfolio"><img src="https://workskill.tools/skill-media/bs-basalt-dev-portfolio/preview-1.webp" width="180" alt="Basalt Dev Portfolio"><br><sub><b>Basalt Dev Portfolio</b></sub></a> | <a href="https://workskill.tools/skills/bs-beacon-saas-landing"><img src="https://workskill.tools/skill-media/bs-beacon-saas-landing/preview-1.webp" width="180" alt="Beacon SaaS Landing"><br><sub><b>Beacon SaaS Landing</b></sub></a> | <a href="https://workskill.tools/skills/bs-cadence-marketing-landing"><img src="https://workskill.tools/skill-media/bs-cadence-marketing-landing/preview-1.webp" width="180" alt="Cadence Marketing Landing"><br><sub><b>Cadence Marketing Landing</b></sub></a> | <a href="https://workskill.tools/skills/linkedin-content"><img src="https://workskill.tools/skill-media/linkedin-content/cover-en.svg" width="180" alt="LinkedIn Content Studio"><br><sub><b>LinkedIn Content Studio</b></sub></a> | <a href="https://workskill.tools/skills/bs-sage-sneaker-store"><img src="https://workskill.tools/skill-media/bs-sage-sneaker-store/preview-1.webp" width="180" alt="Sage Sneaker Store"><br><sub><b>Sage Sneaker Store</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-scattered-cards-magazine"><img src="https://workskill.tools/skill-media/bs-scattered-cards-magazine/preview-1.webp" width="180" alt="Scattered-Cards Magazine"><br><sub><b>Scattered-Cards Magazine</b></sub></a> | <a href="https://workskill.tools/skills/bs-scrapbook-resume-site"><img src="https://workskill.tools/skill-media/bs-scrapbook-resume-site/preview-1.webp" width="180" alt="Scrapbook Resume Site"><br><sub><b>Scrapbook Resume Site</b></sub></a> |
 
-*1 skills — click any card to open its install page.*
+*7 skills — click any card to open its install page.*
 
 
 ---
@@ -155,15 +156,14 @@ Machine-readable: [`data/free-skills.json`](data/free-skills.json) · Regenerate
 
 ---
 
-## Web Pages · 13 skills
+## Web Pages · 6 skills
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| <a href="https://workskill.tools/skills/bs-data-visualization-activity-calendar"><img src="https://workskill.tools/skill-media/bs-data-visualization-activity-calendar/preview-1.webp" width="180" alt="Activity Calendar Chart"><br><sub><b>Activity Calendar Chart</b></sub></a> | <a href="https://workskill.tools/skills/bs-basalt-dev-portfolio"><img src="https://workskill.tools/skill-media/bs-basalt-dev-portfolio/preview-1.webp" width="180" alt="Basalt Dev Portfolio"><br><sub><b>Basalt Dev Portfolio</b></sub></a> | <a href="https://workskill.tools/skills/bs-beacon-saas-landing"><img src="https://workskill.tools/skill-media/bs-beacon-saas-landing/preview-1.webp" width="180" alt="Beacon SaaS Landing"><br><sub><b>Beacon SaaS Landing</b></sub></a> | <a href="https://workskill.tools/skills/bs-cadence-marketing-landing"><img src="https://workskill.tools/skill-media/bs-cadence-marketing-landing/preview-1.webp" width="180" alt="Cadence Marketing Landing"><br><sub><b>Cadence Marketing Landing</b></sub></a> | <a href="https://workskill.tools/skills/bs-dot-avatar-maker"><img src="https://workskill.tools/skill-media/bs-dot-avatar-maker/preview-1.webp" width="180" alt="Dot Avatar Maker"><br><sub><b>Dot Avatar Maker</b></sub></a> |
-| <a href="https://workskill.tools/skills/bs-interactive-system-map"><img src="https://workskill.tools/skill-media/bs-interactive-system-map/preview-1.webp" width="180" alt="Interactive System Map"><br><sub><b>Interactive System Map</b></sub></a> | <a href="https://workskill.tools/skills/bs-testimonial-masonry-wall"><img src="https://workskill.tools/skill-media/bs-testimonial-masonry-wall/preview-1.webp" width="180" alt="Masonry Testimonial Wall"><br><sub><b>Masonry Testimonial Wall</b></sub></a> | <a href="https://workskill.tools/skills/bs-hero-minimal-motion"><img src="https://workskill.tools/skill-media/bs-hero-minimal-motion/preview-1.webp" width="180" alt="Minimal Motion Hero"><br><sub><b>Minimal Motion Hero</b></sub></a> | <a href="https://workskill.tools/skills/bs-project-knowledge-graph"><img src="https://workskill.tools/skill-media/bs-project-knowledge-graph/preview-1.webp" width="180" alt="Project Knowledge Graph"><br><sub><b>Project Knowledge Graph</b></sub></a> | <a href="https://workskill.tools/skills/bs-sage-sneaker-store"><img src="https://workskill.tools/skill-media/bs-sage-sneaker-store/preview-1.webp" width="180" alt="Sage Sneaker Store"><br><sub><b>Sage Sneaker Store</b></sub></a> |
-| <a href="https://workskill.tools/skills/bs-scattered-cards-magazine"><img src="https://workskill.tools/skill-media/bs-scattered-cards-magazine/preview-1.webp" width="180" alt="Scattered-Cards Magazine"><br><sub><b>Scattered-Cards Magazine</b></sub></a> | <a href="https://workskill.tools/skills/bs-scrapbook-resume-site"><img src="https://workskill.tools/skill-media/bs-scrapbook-resume-site/preview-1.webp" width="180" alt="Scrapbook Resume Site"><br><sub><b>Scrapbook Resume Site</b></sub></a> | <a href="https://workskill.tools/skills/bs-slate-admin-console"><img src="https://workskill.tools/skill-media/bs-slate-admin-console/preview-1.webp" width="180" alt="Slate Admin Console"><br><sub><b>Slate Admin Console</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-data-visualization-activity-calendar"><img src="https://workskill.tools/skill-media/bs-data-visualization-activity-calendar/preview-1.webp" width="180" alt="Activity Calendar Chart"><br><sub><b>Activity Calendar Chart</b></sub></a> | <a href="https://workskill.tools/skills/bs-dot-avatar-maker"><img src="https://workskill.tools/skill-media/bs-dot-avatar-maker/preview-1.webp" width="180" alt="Dot Avatar Maker"><br><sub><b>Dot Avatar Maker</b></sub></a> | <a href="https://workskill.tools/skills/bs-interactive-system-map"><img src="https://workskill.tools/skill-media/bs-interactive-system-map/preview-1.webp" width="180" alt="Interactive System Map"><br><sub><b>Interactive System Map</b></sub></a> | <a href="https://workskill.tools/skills/bs-testimonial-masonry-wall"><img src="https://workskill.tools/skill-media/bs-testimonial-masonry-wall/preview-1.webp" width="180" alt="Masonry Testimonial Wall"><br><sub><b>Masonry Testimonial Wall</b></sub></a> | <a href="https://workskill.tools/skills/bs-hero-minimal-motion"><img src="https://workskill.tools/skill-media/bs-hero-minimal-motion/preview-1.webp" width="180" alt="Minimal Motion Hero"><br><sub><b>Minimal Motion Hero</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-project-knowledge-graph"><img src="https://workskill.tools/skill-media/bs-project-knowledge-graph/preview-1.webp" width="180" alt="Project Knowledge Graph"><br><sub><b>Project Knowledge Graph</b></sub></a> |
 
-*13 skills — click any card to open its install page.*
+*6 skills — click any card to open its install page.*
 
 
 ---
