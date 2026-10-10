@@ -1,6 +1,6 @@
 # Awesome Agent Skills
 
-**58 free, ready-to-run skills for Claude Code, Codex & Cursor — web pages, slides, videos, data, automation. One-click install, no signup.**
+**62 free, ready-to-run skills for Claude Code, Codex & Cursor — web pages, slides, videos, data, automation. One-click install, no signup.**
 
 Every entry below is a packaged agent skill you can install from
 [WorkSkill](https://workskill.tools) and run in your agent today: generate landing pages and decks,
@@ -63,13 +63,13 @@ Machine-readable: [`data/free-skills.json`](data/free-skills.json) · Regenerate
 
 ---
 
-## Data Analysis · 1 skills
+## Data Analysis · 2 skills
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| <a href="https://workskill.tools/skills/data-quality-report"><img src="https://workskill.tools/skill-media/data-quality-report/cover-en.svg" width="180" alt="Data Quality Report"><br><sub><b>Data Quality Report</b></sub></a> |
+| <a href="https://workskill.tools/skills/data-quality-report"><img src="https://workskill.tools/skill-media/data-quality-report/cover-en.svg" width="180" alt="Data Quality Report"><br><sub><b>Data Quality Report</b></sub></a> | <a href="https://workskill.tools/skills/github-scipilot-figure-skill"><img src="https://workskill.tools/skill-media/github-scipilot-figure-skill/cover.webp" width="180" alt="Scientific Figure Advisor"><br><sub><b>Scientific Figure Advisor</b></sub></a> |
 
-*1 skills — click any card to open its install page.*
+*2 skills — click any card to open its install page.*
 
 
 ---
@@ -86,27 +86,28 @@ Machine-readable: [`data/free-skills.json`](data/free-skills.json) · Regenerate
 
 ---
 
-## Marketing · 7 skills
+## Marketing · 8 skills
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| <a href="https://workskill.tools/skills/bs-basalt-dev-portfolio"><img src="https://workskill.tools/skill-media/bs-basalt-dev-portfolio/preview-1.webp" width="180" alt="Basalt Dev Portfolio"><br><sub><b>Basalt Dev Portfolio</b></sub></a> | <a href="https://workskill.tools/skills/bs-beacon-saas-landing"><img src="https://workskill.tools/skill-media/bs-beacon-saas-landing/preview-1.webp" width="180" alt="Beacon SaaS Landing"><br><sub><b>Beacon SaaS Landing</b></sub></a> | <a href="https://workskill.tools/skills/bs-cadence-marketing-landing"><img src="https://workskill.tools/skill-media/bs-cadence-marketing-landing/preview-1.webp" width="180" alt="Cadence Marketing Landing"><br><sub><b>Cadence Marketing Landing</b></sub></a> | <a href="https://workskill.tools/skills/linkedin-content"><img src="https://workskill.tools/skill-media/linkedin-content/cover-en.svg" width="180" alt="LinkedIn Content Studio"><br><sub><b>LinkedIn Content Studio</b></sub></a> | <a href="https://workskill.tools/skills/bs-sage-sneaker-store"><img src="https://workskill.tools/skill-media/bs-sage-sneaker-store/preview-1.webp" width="180" alt="Sage Sneaker Store"><br><sub><b>Sage Sneaker Store</b></sub></a> |
-| <a href="https://workskill.tools/skills/bs-scattered-cards-magazine"><img src="https://workskill.tools/skill-media/bs-scattered-cards-magazine/preview-1.webp" width="180" alt="Scattered-Cards Magazine"><br><sub><b>Scattered-Cards Magazine</b></sub></a> | <a href="https://workskill.tools/skills/bs-scrapbook-resume-site"><img src="https://workskill.tools/skill-media/bs-scrapbook-resume-site/preview-1.webp" width="180" alt="Scrapbook Resume Site"><br><sub><b>Scrapbook Resume Site</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-basalt-dev-portfolio"><img src="https://workskill.tools/skill-media/bs-basalt-dev-portfolio/preview-1.webp" width="180" alt="Basalt Dev Portfolio"><br><sub><b>Basalt Dev Portfolio</b></sub></a> | <a href="https://workskill.tools/skills/bs-beacon-saas-landing"><img src="https://workskill.tools/skill-media/bs-beacon-saas-landing/preview-1.webp" width="180" alt="Beacon SaaS Landing"><br><sub><b>Beacon SaaS Landing</b></sub></a> | <a href="https://workskill.tools/skills/bs-cadence-marketing-landing"><img src="https://workskill.tools/skill-media/bs-cadence-marketing-landing/preview-1.webp" width="180" alt="Cadence Marketing Landing"><br><sub><b>Cadence Marketing Landing</b></sub></a> | <a href="https://workskill.tools/skills/github-copywriting"><img src="https://workskill.tools/skill-media/github-copywriting/cover.webp" width="180" alt="Landing Page Copywriting"><br><sub><b>Landing Page Copywriting</b></sub></a> | <a href="https://workskill.tools/skills/linkedin-content"><img src="https://workskill.tools/skill-media/linkedin-content/cover-en.svg" width="180" alt="LinkedIn Content Studio"><br><sub><b>LinkedIn Content Studio</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-sage-sneaker-store"><img src="https://workskill.tools/skill-media/bs-sage-sneaker-store/preview-1.webp" width="180" alt="Sage Sneaker Store"><br><sub><b>Sage Sneaker Store</b></sub></a> | <a href="https://workskill.tools/skills/bs-scattered-cards-magazine"><img src="https://workskill.tools/skill-media/bs-scattered-cards-magazine/preview-1.webp" width="180" alt="Scattered-Cards Magazine"><br><sub><b>Scattered-Cards Magazine</b></sub></a> | <a href="https://workskill.tools/skills/bs-scrapbook-resume-site"><img src="https://workskill.tools/skill-media/bs-scrapbook-resume-site/preview-1.webp" width="180" alt="Scrapbook Resume Site"><br><sub><b>Scrapbook Resume Site</b></sub></a> |
 
-*7 skills — click any card to open its install page.*
+*8 skills — click any card to open its install page.*
 
 
 ---
 
-## Presentations · 15 skills
+## Presentations · 16 skills
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | <a href="https://workskill.tools/skills/bs-article-brief-deck"><img src="https://workskill.tools/skill-media/bs-article-brief-deck/preview-1.webp" width="180" alt="Article Brief Deck"><br><sub><b>Article Brief Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-brand-story-deck"><img src="https://workskill.tools/skill-media/bs-brand-story-deck/preview-1.webp" width="180" alt="Brand Story Deck"><br><sub><b>Brand Story Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-cobalt-system-deck"><img src="https://workskill.tools/skill-media/bs-cobalt-system-deck/preview-1.webp" width="180" alt="Cobalt System Deck"><br><sub><b>Cobalt System Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-confetti-gathering-deck"><img src="https://workskill.tools/skill-media/bs-confetti-gathering-deck/preview-1.webp" width="180" alt="Confetti Gathering Deck"><br><sub><b>Confetti Gathering Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-consulting-storyline-deck"><img src="https://workskill.tools/skill-media/bs-consulting-storyline-deck/preview-1.webp" width="180" alt="Consulting Storyline Deck"><br><sub><b>Consulting Storyline Deck</b></sub></a> |
 | <a href="https://workskill.tools/skills/bs-editable-visual-deck"><img src="https://workskill.tools/skill-media/bs-editable-visual-deck/preview-1.webp" width="180" alt="Editable Visual Deck"><br><sub><b>Editable Visual Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-field-notes-deck"><img src="https://workskill.tools/skill-media/bs-field-notes-deck/preview-1.webp" width="180" alt="Field Notes Deck"><br><sub><b>Field Notes Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-image-narrative-deck"><img src="https://workskill.tools/skill-media/bs-image-narrative-deck/preview-1.webp" width="180" alt="Image Narrative Deck"><br><sub><b>Image Narrative Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-inclusive-cutpaper-deck"><img src="https://workskill.tools/skill-media/bs-inclusive-cutpaper-deck/preview-1.webp" width="180" alt="Inclusive Cutpaper Deck"><br><sub><b>Inclusive Cutpaper Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-learning-loop-deck"><img src="https://workskill.tools/skill-media/bs-learning-loop-deck/preview-1.webp" width="180" alt="Learning Loop Deck"><br><sub><b>Learning Loop Deck</b></sub></a> |
-| <a href="https://workskill.tools/skills/bs-ochre-editorial-deck"><img src="https://workskill.tools/skill-media/bs-ochre-editorial-deck/preview-1.webp" width="180" alt="Ochre Editorial Deck"><br><sub><b>Ochre Editorial Deck</b></sub></a> | <a href="https://workskill.tools/skills/pptx-from-layouts"><img src="https://workskill.tools/skill-media/pptx-from-layouts/cover-en.svg" width="180" alt="PPTX From Layouts"><br><sub><b>PPTX From Layouts</b></sub></a> | <a href="https://workskill.tools/skills/bs-research-talk-deck"><img src="https://workskill.tools/skill-media/bs-research-talk-deck/preview-1.webp" width="180" alt="Research Talk Deck"><br><sub><b>Research Talk Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-sky-glass-deck"><img src="https://workskill.tools/skill-media/bs-sky-glass-deck/preview-1.webp" width="180" alt="Sky Glass Deck"><br><sub><b>Sky Glass Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-yellow-sketchnote-deck"><img src="https://workskill.tools/skill-media/bs-yellow-sketchnote-deck/preview-1.webp" width="180" alt="Yellow Sketchnote Deck"><br><sub><b>Yellow Sketchnote Deck</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-ochre-editorial-deck"><img src="https://workskill.tools/skill-media/bs-ochre-editorial-deck/preview-1.webp" width="180" alt="Ochre Editorial Deck"><br><sub><b>Ochre Editorial Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-playful-primary-classroom-deck"><img src="https://workskill.tools/skill-media/bs-playful-primary-classroom-deck/preview-1.webp" width="180" alt="Playful Primary Classroom Deck"><br><sub><b>Playful Primary Classroom Deck</b></sub></a> | <a href="https://workskill.tools/skills/pptx-from-layouts"><img src="https://workskill.tools/skill-media/pptx-from-layouts/cover-en.svg" width="180" alt="PPTX From Layouts"><br><sub><b>PPTX From Layouts</b></sub></a> | <a href="https://workskill.tools/skills/bs-research-talk-deck"><img src="https://workskill.tools/skill-media/bs-research-talk-deck/preview-1.webp" width="180" alt="Research Talk Deck"><br><sub><b>Research Talk Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-sky-glass-deck"><img src="https://workskill.tools/skill-media/bs-sky-glass-deck/preview-1.webp" width="180" alt="Sky Glass Deck"><br><sub><b>Sky Glass Deck</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-yellow-sketchnote-deck"><img src="https://workskill.tools/skill-media/bs-yellow-sketchnote-deck/preview-1.webp" width="180" alt="Yellow Sketchnote Deck"><br><sub><b>Yellow Sketchnote Deck</b></sub></a> |
 
-*15 skills — click any card to open its install page.*
+*16 skills — click any card to open its install page.*
 
 
 ---
@@ -156,14 +157,14 @@ Machine-readable: [`data/free-skills.json`](data/free-skills.json) · Regenerate
 
 ---
 
-## Web Pages · 6 skills
+## Web Pages · 7 skills
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | <a href="https://workskill.tools/skills/bs-data-visualization-activity-calendar"><img src="https://workskill.tools/skill-media/bs-data-visualization-activity-calendar/preview-1.webp" width="180" alt="Activity Calendar Chart"><br><sub><b>Activity Calendar Chart</b></sub></a> | <a href="https://workskill.tools/skills/bs-dot-avatar-maker"><img src="https://workskill.tools/skill-media/bs-dot-avatar-maker/preview-1.webp" width="180" alt="Dot Avatar Maker"><br><sub><b>Dot Avatar Maker</b></sub></a> | <a href="https://workskill.tools/skills/bs-interactive-system-map"><img src="https://workskill.tools/skill-media/bs-interactive-system-map/preview-1.webp" width="180" alt="Interactive System Map"><br><sub><b>Interactive System Map</b></sub></a> | <a href="https://workskill.tools/skills/bs-testimonial-masonry-wall"><img src="https://workskill.tools/skill-media/bs-testimonial-masonry-wall/preview-1.webp" width="180" alt="Masonry Testimonial Wall"><br><sub><b>Masonry Testimonial Wall</b></sub></a> | <a href="https://workskill.tools/skills/bs-hero-minimal-motion"><img src="https://workskill.tools/skill-media/bs-hero-minimal-motion/preview-1.webp" width="180" alt="Minimal Motion Hero"><br><sub><b>Minimal Motion Hero</b></sub></a> |
-| <a href="https://workskill.tools/skills/bs-project-knowledge-graph"><img src="https://workskill.tools/skill-media/bs-project-knowledge-graph/preview-1.webp" width="180" alt="Project Knowledge Graph"><br><sub><b>Project Knowledge Graph</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-project-knowledge-graph"><img src="https://workskill.tools/skill-media/bs-project-knowledge-graph/preview-1.webp" width="180" alt="Project Knowledge Graph"><br><sub><b>Project Knowledge Graph</b></sub></a> | <a href="https://workskill.tools/skills/github-ui-ux-pro-max"><img src="https://workskill.tools/skill-media/github-ui-ux-pro-max/upstream-1a2c459b-1.png" width="180" alt="UI/UX Design System"><br><sub><b>UI/UX Design System</b></sub></a> |
 
-*6 skills — click any card to open its install page.*
+*7 skills — click any card to open its install page.*
 
 
 ---

@@ -1,6 +1,6 @@
 # Awesome Agent Skills — 免费 Agent 技能图鉴
 
-**58 个免费、开箱即用的 Agent 技能，覆盖 Claude Code、Codex 与 Cursor——网页、幻灯片、视频、数据、自动化。一键安装，无需注册。**
+**62 个免费、开箱即用的 Agent 技能，覆盖 Claude Code、Codex 与 Cursor——网页、幻灯片、视频、数据、自动化。一键安装，无需注册。**
 
 下面每个条目都是打包好的 Agent 技能，来自 [WorkSkill](https://workskill.tools)，
 装完就能用：生成落地页和演示文稿、剪动效发布片、处理表格、搭建仪表盘——
@@ -62,38 +62,39 @@ Agent 能力是新的「应用商店」，但好技能散落在各个仓库和�
 
 ---
 
-## 市场营销 · 7 个
+## 市场营销 · 8 个
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| <a href="https://workskill.tools/skills/bs-basalt-dev-portfolio"><img src="https://workskill.tools/skill-media/bs-basalt-dev-portfolio/preview-1.webp" width="180" alt="Basalt Dev Portfolio"><br><sub><b>Basalt Dev Portfolio</b></sub></a> | <a href="https://workskill.tools/skills/bs-beacon-saas-landing"><img src="https://workskill.tools/skill-media/bs-beacon-saas-landing/preview-1.webp" width="180" alt="Beacon SaaS Landing"><br><sub><b>Beacon SaaS Landing</b></sub></a> | <a href="https://workskill.tools/skills/bs-cadence-marketing-landing"><img src="https://workskill.tools/skill-media/bs-cadence-marketing-landing/preview-1.webp" width="180" alt="Cadence Marketing Landing"><br><sub><b>Cadence Marketing Landing</b></sub></a> | <a href="https://workskill.tools/skills/linkedin-content"><img src="https://workskill.tools/skill-media/linkedin-content/cover-en.svg" width="180" alt="LinkedIn 内容工坊"><br><sub><b>LinkedIn 内容工坊</b></sub></a> | <a href="https://workskill.tools/skills/bs-sage-sneaker-store"><img src="https://workskill.tools/skill-media/bs-sage-sneaker-store/preview-1.webp" width="180" alt="Sage Sneaker Store"><br><sub><b>Sage Sneaker Store</b></sub></a> |
-| <a href="https://workskill.tools/skills/bs-scattered-cards-magazine"><img src="https://workskill.tools/skill-media/bs-scattered-cards-magazine/preview-1.webp" width="180" alt="Scattered-Cards Magazine"><br><sub><b>Scattered-Cards Magazine</b></sub></a> | <a href="https://workskill.tools/skills/bs-scrapbook-resume-site"><img src="https://workskill.tools/skill-media/bs-scrapbook-resume-site/preview-1.webp" width="180" alt="Scrapbook Resume Site"><br><sub><b>Scrapbook Resume Site</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-basalt-dev-portfolio"><img src="https://workskill.tools/skill-media/bs-basalt-dev-portfolio/preview-1.webp" width="180" alt="Basalt Dev Portfolio"><br><sub><b>Basalt Dev Portfolio</b></sub></a> | <a href="https://workskill.tools/skills/bs-beacon-saas-landing"><img src="https://workskill.tools/skill-media/bs-beacon-saas-landing/preview-1.webp" width="180" alt="Beacon SaaS Landing"><br><sub><b>Beacon SaaS Landing</b></sub></a> | <a href="https://workskill.tools/skills/bs-cadence-marketing-landing"><img src="https://workskill.tools/skill-media/bs-cadence-marketing-landing/preview-1.webp" width="180" alt="Cadence Marketing Landing"><br><sub><b>Cadence Marketing Landing</b></sub></a> | <a href="https://workskill.tools/skills/github-copywriting"><img src="https://workskill.tools/skill-media/github-copywriting/cover.webp" width="180" alt="落地页营销文案"><br><sub><b>落地页营销文案</b></sub></a> | <a href="https://workskill.tools/skills/linkedin-content"><img src="https://workskill.tools/skill-media/linkedin-content/cover-en.svg" width="180" alt="LinkedIn 内容工坊"><br><sub><b>LinkedIn 内容工坊</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-sage-sneaker-store"><img src="https://workskill.tools/skill-media/bs-sage-sneaker-store/preview-1.webp" width="180" alt="Sage Sneaker Store"><br><sub><b>Sage Sneaker Store</b></sub></a> | <a href="https://workskill.tools/skills/bs-scattered-cards-magazine"><img src="https://workskill.tools/skill-media/bs-scattered-cards-magazine/preview-1.webp" width="180" alt="Scattered-Cards Magazine"><br><sub><b>Scattered-Cards Magazine</b></sub></a> | <a href="https://workskill.tools/skills/bs-scrapbook-resume-site"><img src="https://workskill.tools/skill-media/bs-scrapbook-resume-site/preview-1.webp" width="180" alt="Scrapbook Resume Site"><br><sub><b>Scrapbook Resume Site</b></sub></a> |
 
-*共 7 个——点击任意卡片打开安装页。*
+*共 8 个——点击任意卡片打开安装页。*
 
 
 ---
 
-## 数据分析 · 1 个
+## 数据分析 · 2 个
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| <a href="https://workskill.tools/skills/data-quality-report"><img src="https://workskill.tools/skill-media/data-quality-report/cover-en.svg" width="180" alt="数据质量报告"><br><sub><b>数据质量报告</b></sub></a> |
+| <a href="https://workskill.tools/skills/data-quality-report"><img src="https://workskill.tools/skill-media/data-quality-report/cover-en.svg" width="180" alt="数据质量报告"><br><sub><b>数据质量报告</b></sub></a> | <a href="https://workskill.tools/skills/github-scipilot-figure-skill"><img src="https://workskill.tools/skill-media/github-scipilot-figure-skill/cover.webp" width="180" alt="科研数据可视化顾问"><br><sub><b>科研数据可视化顾问</b></sub></a> |
 
-*共 1 个——点击任意卡片打开安装页。*
+*共 2 个——点击任意卡片打开安装页。*
 
 
 ---
 
-## 演示文稿 · 15 个
+## 演示文稿 · 16 个
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | <a href="https://workskill.tools/skills/bs-article-brief-deck"><img src="https://workskill.tools/skill-media/bs-article-brief-deck/preview-1.webp" width="180" alt="Article Brief Deck"><br><sub><b>Article Brief Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-brand-story-deck"><img src="https://workskill.tools/skill-media/bs-brand-story-deck/preview-1.webp" width="180" alt="Brand Story Deck"><br><sub><b>Brand Story Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-cobalt-system-deck"><img src="https://workskill.tools/skill-media/bs-cobalt-system-deck/preview-1.webp" width="180" alt="Cobalt System Deck"><br><sub><b>Cobalt System Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-confetti-gathering-deck"><img src="https://workskill.tools/skill-media/bs-confetti-gathering-deck/preview-1.webp" width="180" alt="Confetti Gathering Deck"><br><sub><b>Confetti Gathering Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-consulting-storyline-deck"><img src="https://workskill.tools/skill-media/bs-consulting-storyline-deck/preview-1.webp" width="180" alt="Consulting Storyline Deck"><br><sub><b>Consulting Storyline Deck</b></sub></a> |
 | <a href="https://workskill.tools/skills/bs-editable-visual-deck"><img src="https://workskill.tools/skill-media/bs-editable-visual-deck/preview-1.webp" width="180" alt="Editable Visual Deck"><br><sub><b>Editable Visual Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-field-notes-deck"><img src="https://workskill.tools/skill-media/bs-field-notes-deck/preview-1.webp" width="180" alt="Field Notes Deck"><br><sub><b>Field Notes Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-image-narrative-deck"><img src="https://workskill.tools/skill-media/bs-image-narrative-deck/preview-1.webp" width="180" alt="Image Narrative Deck"><br><sub><b>Image Narrative Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-inclusive-cutpaper-deck"><img src="https://workskill.tools/skill-media/bs-inclusive-cutpaper-deck/preview-1.webp" width="180" alt="Inclusive Cutpaper Deck"><br><sub><b>Inclusive Cutpaper Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-learning-loop-deck"><img src="https://workskill.tools/skill-media/bs-learning-loop-deck/preview-1.webp" width="180" alt="Learning Loop Deck"><br><sub><b>Learning Loop Deck</b></sub></a> |
-| <a href="https://workskill.tools/skills/bs-ochre-editorial-deck"><img src="https://workskill.tools/skill-media/bs-ochre-editorial-deck/preview-1.webp" width="180" alt="Ochre Editorial Deck"><br><sub><b>Ochre Editorial Deck</b></sub></a> | <a href="https://workskill.tools/skills/pptx-from-layouts"><img src="https://workskill.tools/skill-media/pptx-from-layouts/cover-en.svg" width="180" alt="版式化 PPT 生成"><br><sub><b>版式化 PPT 生成</b></sub></a> | <a href="https://workskill.tools/skills/bs-research-talk-deck"><img src="https://workskill.tools/skill-media/bs-research-talk-deck/preview-1.webp" width="180" alt="Research Talk Deck"><br><sub><b>Research Talk Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-sky-glass-deck"><img src="https://workskill.tools/skill-media/bs-sky-glass-deck/preview-1.webp" width="180" alt="Sky Glass Deck"><br><sub><b>Sky Glass Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-yellow-sketchnote-deck"><img src="https://workskill.tools/skill-media/bs-yellow-sketchnote-deck/preview-1.webp" width="180" alt="Yellow Sketchnote Deck"><br><sub><b>Yellow Sketchnote Deck</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-ochre-editorial-deck"><img src="https://workskill.tools/skill-media/bs-ochre-editorial-deck/preview-1.webp" width="180" alt="Ochre Editorial Deck"><br><sub><b>Ochre Editorial Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-playful-primary-classroom-deck"><img src="https://workskill.tools/skill-media/bs-playful-primary-classroom-deck/preview-1.webp" width="180" alt="Playful Primary Classroom Deck"><br><sub><b>Playful Primary Classroom Deck</b></sub></a> | <a href="https://workskill.tools/skills/pptx-from-layouts"><img src="https://workskill.tools/skill-media/pptx-from-layouts/cover-en.svg" width="180" alt="版式化 PPT 生成"><br><sub><b>版式化 PPT 生成</b></sub></a> | <a href="https://workskill.tools/skills/bs-research-talk-deck"><img src="https://workskill.tools/skill-media/bs-research-talk-deck/preview-1.webp" width="180" alt="Research Talk Deck"><br><sub><b>Research Talk Deck</b></sub></a> | <a href="https://workskill.tools/skills/bs-sky-glass-deck"><img src="https://workskill.tools/skill-media/bs-sky-glass-deck/preview-1.webp" width="180" alt="Sky Glass Deck"><br><sub><b>Sky Glass Deck</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-yellow-sketchnote-deck"><img src="https://workskill.tools/skill-media/bs-yellow-sketchnote-deck/preview-1.webp" width="180" alt="Yellow Sketchnote Deck"><br><sub><b>Yellow Sketchnote Deck</b></sub></a> |
 
-*共 15 个——点击任意卡片打开安装页。*
+*共 16 个——点击任意卡片打开安装页。*
 
 
 ---
@@ -120,14 +121,14 @@ Agent 能力是新的「应用商店」，但好技能散落在各个仓库和�
 
 ---
 
-## 网页与站点 · 6 个
+## 网页与站点 · 7 个
 
 |  |  |  |  |  |
 |---|---|---|---|---|
 | <a href="https://workskill.tools/skills/bs-data-visualization-activity-calendar"><img src="https://workskill.tools/skill-media/bs-data-visualization-activity-calendar/preview-1.webp" width="180" alt="活跃度日历图"><br><sub><b>活跃度日历图</b></sub></a> | <a href="https://workskill.tools/skills/bs-dot-avatar-maker"><img src="https://workskill.tools/skill-media/bs-dot-avatar-maker/preview-1.webp" width="180" alt="团子头像工坊"><br><sub><b>团子头像工坊</b></sub></a> | <a href="https://workskill.tools/skills/bs-interactive-system-map"><img src="https://workskill.tools/skill-media/bs-interactive-system-map/preview-1.webp" width="180" alt="交互式系统图"><br><sub><b>交互式系统图</b></sub></a> | <a href="https://workskill.tools/skills/bs-testimonial-masonry-wall"><img src="https://workskill.tools/skill-media/bs-testimonial-masonry-wall/preview-1.webp" width="180" alt="瀑布流用户评价墙"><br><sub><b>瀑布流用户评价墙</b></sub></a> | <a href="https://workskill.tools/skills/bs-hero-minimal-motion"><img src="https://workskill.tools/skill-media/bs-hero-minimal-motion/preview-1.webp" width="180" alt="极简动效 Hero"><br><sub><b>极简动效 Hero</b></sub></a> |
-| <a href="https://workskill.tools/skills/bs-project-knowledge-graph"><img src="https://workskill.tools/skill-media/bs-project-knowledge-graph/preview-1.webp" width="180" alt="项目知识关系图"><br><sub><b>项目知识关系图</b></sub></a> |
+| <a href="https://workskill.tools/skills/bs-project-knowledge-graph"><img src="https://workskill.tools/skill-media/bs-project-knowledge-graph/preview-1.webp" width="180" alt="项目知识关系图"><br><sub><b>项目知识关系图</b></sub></a> | <a href="https://workskill.tools/skills/github-ui-ux-pro-max"><img src="https://workskill.tools/skill-media/github-ui-ux-pro-max/upstream-1a2c459b-1.png" width="180" alt="UI/UX 设计系统"><br><sub><b>UI/UX 设计系统</b></sub></a> |
 
-*共 6 个——点击任意卡片打开安装页。*
+*共 7 个——点击任意卡片打开安装页。*
 
 
 ---

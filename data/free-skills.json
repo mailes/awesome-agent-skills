@@ -411,6 +411,19 @@
   "downloads": 0
  },
  {
+  "slug": "github-copywriting",
+  "title": "Landing Page Copywriting",
+  "summary": "Plan and rewrite marketing copy for homepages, landing pages and product pages.",
+  "category": "marketing",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor"
+  ],
+  "cover": "/skill-media/github-copywriting/cover.webp",
+  "downloads": 0
+ },
+ {
   "slug": "bs-learning-loop-deck",
   "title": "Learning Loop Deck",
   "summary": "Turn rough training material into a bright, learner-centered HTML deck with explicit outcomes, short explain-engage-apply loops, practice, feedback, and an action commitment. Use this whenever a user needs a workshop, onboarding, enablement, or instructional presentation that people must act on rather than merely read.",
@@ -537,6 +550,17 @@
   "downloads": 0
  },
  {
+  "slug": "bs-playful-primary-classroom-deck",
+  "title": "Playful Primary Classroom Deck",
+  "summary": "Create an editable presentation with friendly bold headings with handwritten accents, ink-outline original children, pastel cards, and colorful doodle corners. Turn children’s creativity classes, hands-on activities, and family workshops into a clear sequence you can revise in your browser and export to PowerPoint.",
+  "category": "powerpoint",
+  "compatibility": [
+   "Claude"
+  ],
+  "cover": "/skill-media/bs-playful-primary-classroom-deck/preview-1.webp",
+  "downloads": 0
+ },
+ {
   "slug": "pptx-from-layouts",
   "title": "PPTX From Layouts",
   "summary": "Generate consultant-quality PowerPoint decks from markdown outlines using your template's real slide-master layouts.",
@@ -633,6 +657,19 @@
   "downloads": 0
  },
  {
+  "slug": "github-scipilot-figure-skill",
+  "title": "Scientific Figure Advisor",
+  "summary": "Analyze data and the intended argument, select a chart type, draw and visually inspect scientific figures, then export them.",
+  "category": "data-analysis",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor"
+  ],
+  "cover": "/skill-media/github-scipilot-figure-skill/cover.webp",
+  "downloads": 1
+ },
+ {
   "slug": "bs-scrapbook-resume-site",
   "title": "Scrapbook Resume Site",
   "summary": "A multi-page online resume site in a scrapbook grammar: a lanyard ID badge, a taped contact card, a torn notepaper intro, a cobalt marquee ribbon and a clipboard of sticky-note roles, with pages for Home, Experience plus three role stories, Education, Skills and Tools, Projects plus four case pages, Kind words and Contact. Every name, role and image is original, so you drop in your own story without inheriting anyone else's. Ideal for designers and job seekers who want a CV that feels handmade rather than templated.",
@@ -643,7 +680,7 @@
    "Cursor"
   ],
   "cover": "/skill-media/bs-scrapbook-resume-site/preview-1.webp",
-  "downloads": 1
+  "downloads": 2
  },
  {
   "slug": "seedance-2-5-video-director",
@@ -680,6 +717,19 @@
    "Cursor"
   ],
   "cover": "/skill-media/bs-slate-admin-console/preview-1.webp",
+  "downloads": 0
+ },
+ {
+  "slug": "github-ui-ux-pro-max",
+  "title": "UI/UX Design System",
+  "summary": "Search industry and technology-specific palettes, typography, layouts and interaction rules to create a design system.",
+  "category": "web-pages",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor"
+  ],
+  "cover": "/skill-media/github-ui-ux-pro-max/upstream-1a2c459b-1.png",
   "downloads": 0
  },
  {
