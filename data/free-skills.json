@@ -1,70 +1,5 @@
 [
  {
-  "slug": "bs-data-visualization-activity-calendar",
-  "title": "Activity Calendar Chart",
-  "summary": "Activity Calendar Chart is a ready-to-paste data visualization, delivered as editable source with its usage example. It ships with state the visitor can change and see respond. Colour, type and radius live as tokens you edit once for the whole block.",
-  "category": "web-pages",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-data-visualization-activity-calendar/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-hyperframes-agent-chorus-reel",
-  "title": "Agent-Chorus Capability Reel",
-  "summary": "Build a launch film that proves a capability works everywhere by showing four different surfaces typing the identical prompt, then drops into a beat-cut reel of what came out and closes on the install command. Delivered as a rendered MP4 plus the editable project.",
-  "category": "video-animation",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-hyperframes-agent-chorus-reel/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-article-brief-deck",
-  "title": "Article Brief Deck",
-  "summary": "Turns a verified article into a horizontally paged briefing deck with an argument spine, evidence slides, and discussion prompts. It delivers a complete horizontally paged example deck with speaker notes and three finished 16:9 previews.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-article-brief-deck/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-basalt-dev-portfolio",
-  "title": "Basalt Dev Portfolio",
-  "summary": "Create a complete personal developer portfolio with biography, projects, writing, talks, tools, and career milestones in a focused basalt style. It helps independent builders present a coherent body of work, rather than a disconnected collection of links, when seeking clients, roles, or collaborators.",
-  "category": "marketing",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-basalt-dev-portfolio/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-beacon-saas-landing",
-  "title": "Beacon SaaS Landing",
-  "summary": "Create a calm SaaS marketing landing page with a focused product narrative, clear sections, and restrained visual emphasis. It helps teams present a new product or waitlist with more clarity and polish than a generic template, while keeping claims grounded in real proof.",
-  "category": "marketing",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-beacon-saas-landing/preview-1.webp",
-  "downloads": 0
- },
- {
   "slug": "blender-image-to-3d",
   "title": "Blender Image-to-3D",
   "summary": "Build game-ready 3D assets in Blender from reference images through gated phases with rendered evidence.",
@@ -76,19 +11,6 @@
   "downloads": 0
  },
  {
-  "slug": "bs-brand-story-deck",
-  "title": "Brand Story Deck",
-  "summary": "Build a high-contrast editorial brand story deck with a narrative spine, visual codes, and editable 16:9 HTML slides. Use for brand origins, positioning stories, identity rationales, launch narratives, or reframing a generic brand presentation into a distinctive magazine-like sequence.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-brand-story-deck/preview-1.webp",
-  "downloads": 1
- },
- {
   "slug": "business-email",
   "title": "Business Email Drafting",
   "summary": "Create a structured business email draft from supplied facts, recipient and requested action.",
@@ -97,136 +19,6 @@
    "Codex"
   ],
   "cover": "/skill-media/business-email/cover-en.svg",
-  "downloads": 0
- },
- {
-  "slug": "bs-cadence-marketing-landing",
-  "title": "Cadence Marketing Landing",
-  "summary": "Create a dark, motion-rich SaaS landing page that guides visitors through a continuous product story with focused calls to action. It helps launch teams make a modern software offer feel distinctive and easy to understand without relying on generic sections or inflated claims.",
-  "category": "marketing",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-cadence-marketing-landing/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-chalkboard-infographic",
-  "title": "Chalkboard Infographic",
-  "summary": "Turn a lesson, process, or data story into a readable chalkboard-style infographic with clear hierarchy, concise copy, and original illustrations. It helps educators, creators, and teams make one takeaway easier to grasp and share without turning the image into a dense slide.",
-  "category": "design",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-chalkboard-infographic/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-hyperframes-chat-to-result-launch",
-  "title": "Chat-to-Result Launch Film",
-  "summary": "Build a narrated launch film that plays out entirely inside a dark app interface — a prompt is typed, an answer streams back, a follow-up triggers your product, and the finished result lands with a count-up headline number. You get the seven-scene storyboard, the interface system, and a rendered MP4.",
-  "category": "video-animation",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-hyperframes-chat-to-result-launch/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-claude-style-illustration",
-  "title": "Claude Style Illustration",
-  "summary": "Create an Anthropic Style editorial illustration that turns one idea into an immediately readable visual metaphor. This independent workflow helps writers and product teams add a warm, human focal image and is not affiliated with or endorsed by Anthropic.",
-  "category": "design",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-claude-style-illustration/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-cobalt-system-deck",
-  "title": "Cobalt System Deck",
-  "summary": "Create crisp identity-guideline presentation pages with cobalt-blue chapter fields, lemon accents, ivory layouts, black contrast pages, editable geometric mark studies, typography specimens, color circles, stationery photography and a varied imagery board. Use this visual language to present visual identity guidelines with a clear, consistent rhythm. The slide count follows your request, with artwork planned around the content of each page.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-cobalt-system-deck/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-hyperframes-code-change-launch",
-  "title": "Code-Change Explainer Film",
-  "summary": "Build a 30-second film that explains a code change to people who will never read the diff. It opens by scrolling the real change too fast to follow, cuts to the summary, then fires four capability tiles and closes on the install command — delivered as a rendered MP4 plus the editable project.",
-  "category": "video-animation",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-hyperframes-code-change-launch/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-confetti-gathering-deck",
-  "title": "Confetti Gathering Deck",
-  "summary": "Create vivid gathering presentation pages using bright pink yellow green blue and cyan fields, heavy slanted titles, fine grids, cream cards, circular candid photos, festive vector accents and independent photographs. Use this visual language to present community gathering plans with a clear, consistent rhythm. The slide count follows your brief, with original artwork planned around the content and layouts.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-confetti-gathering-deck/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-consulting-storyline-deck",
-  "title": "Consulting Storyline Deck",
-  "summary": "Creates a consulting storyline deck with action titles, restrained red accents, structured evidence blocks, and a recommendation-to-implementation sequence. It turns approved analysis into a client-ready argument with explicit assumptions and decision gates.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-consulting-storyline-deck/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-creatormotion-cards-action-checklist",
-  "title": "CreatorMotion · Synchronized Action Checklist",
-  "summary": "Create a timed checklist animation for a short screen demonstration. The checklist completes at supplied moments. Use your own screen recording and matching action timestamps for a real demonstration; the included default is an illustrative static screen.",
-  "category": "video-animation",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-creatormotion-cards-action-checklist/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-creatormotion-type-title-takeover",
-  "title": "CreatorMotion · Title Scene Takeover",
-  "summary": "An oversized condensed headline punches in behind a presenter. A clean edit removes the presenter while the same lettering holds its scale and position.",
-  "category": "video-animation",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-creatormotion-type-title-takeover/preview-1.webp",
   "downloads": 0
  },
  {
@@ -263,45 +55,6 @@
   "downloads": 0
  },
  {
-  "slug": "bs-hyperframes-device-canvas-launch",
-  "title": "Device-Canvas Product Launch",
-  "summary": "Build a launch film that puts your product's real screen on a device in a dark studio, scrolls it, zooms into the interface for one action, and resolves to the lockup through a colour-split reveal. Delivered as a rendered MP4 plus the editable project, with no 3D model and no generation model involved.",
-  "category": "video-animation",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-hyperframes-device-canvas-launch/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-dot-avatar-maker",
-  "title": "Dot Avatar Maker",
-  "summary": "Get the complete source of a live 3D avatar maker: a single HTML file with 25 cute dot, animal and fantasy forms, 12 finishes from soft plush to glazed ceramic, 32 boy and girl styles and 18 languages. Run it to design characters in your browser and download transparent PNGs or 3D pages you can spin, with no image generation and no credits. Then have your AI agent rebrand it, add your own forms and colors, or build it into your website or app as a character creator for your users.",
-  "category": "web-pages",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-dot-avatar-maker/preview-1.webp",
-  "downloads": 2
- },
- {
-  "slug": "bs-editable-visual-deck",
-  "title": "Editable Visual Deck",
-  "summary": "Create a polished presentation from editable text, shapes, diagrams, and chart elements. It prioritizes a dependable browser deck while preserving a clear native-object handoff for later editable presentation export.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-editable-visual-deck/preview-1.webp",
-  "downloads": 0
- },
- {
   "slug": "excel-cleanup",
   "title": "Excel Cleanup",
   "summary": "Trim whitespace, remove exact duplicate CSV rows and produce a reviewable quality report.",
@@ -313,53 +66,25 @@
   "downloads": 5
  },
  {
-  "slug": "bs-field-notes-deck",
-  "title": "Field Notes Deck",
-  "summary": "Create refined outdoor-learning presentation pages with sky-blue sports photography, sage-green cards, frosted overlays, compact capsules, asymmetrical image tiles and independent original images. Use this visual language to present outdoor-learning programs with a clear, consistent rhythm. The slide count follows your brief, with original artwork planned around the content and layouts.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-field-notes-deck/preview-1.webp",
+  "slug": "frame-template",
+  "title": "FRAME — Photographic Archive HTML Template",
+  "summary": "Free static photographic portfolio template with sixteen credited reference images, category filters, large-image browsing and a local edit list.",
+  "category": "web-pages",
+  "compatibility": [],
+  "cover": "/skill-media/frame-template/cover.png",
   "downloads": 0
  },
  {
-  "slug": "bs-grokbot-avatar",
-  "title": "GrokBot Avatar",
-  "summary": "Create rounded Original mascots or cute soft-vinyl Anime avatars with simple solid eyes and vivid colors. Follow explicit character requests first, use reliable user memories to personalize missing details for a personal avatar, and turn an approved shape into a matching toy-like character when requested.",
-  "category": "design",
+  "slug": "frame",
+  "title": "FRAME — Photographic Archive Website Skill",
+  "summary": "Free AI adaptation workflow for a photographic contact-sheet portfolio, with category browsing, natural-ratio viewer, local edit list and enquiry text drafts.",
+  "category": "web-pages",
   "compatibility": [
-   "Codex"
-  ],
-  "cover": "/skill-media/bs-grokbot-avatar/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-hand-drawn-visual-notes",
-  "title": "Hand-Drawn Visual Notes",
-  "summary": "Turn source material into one focused 4:3 visual note, using hand-drawn illustrations, a strong English title, and a small set of accurate labels. It helps educators, creators, and teams make a process or idea easier to understand at a glance without reducing it to a dense slide.",
-  "category": "design",
-  "compatibility": [
-   "Claude",
    "Codex",
+   "Claude",
    "Cursor"
   ],
-  "cover": "/skill-media/bs-hand-drawn-visual-notes/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-image-narrative-deck",
-  "title": "Image Narrative Deck",
-  "summary": "Create an image-led presentation with cinematic pacing, editable live captions, and a coherent visual world. It is suited to documentary pitches, launch stories, cultural explainers, and narrative reports that benefit from full-frame scenes and restrained copy.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-image-narrative-deck/preview-1.webp",
+  "cover": "/skill-media/frame/cover.png",
   "downloads": 0
  },
  {
@@ -385,32 +110,6 @@
   "downloads": 0
  },
  {
-  "slug": "bs-inclusive-cutpaper-deck",
-  "title": "Inclusive Cutpaper Deck",
-  "summary": "Create editorial workshop slides with heavy black grotesk headings, cream paper, vibrant portrait collages, highlighted monospace copy and editable cut-paper accents. Use this visual language to present collaboration workshops with a clear, consistent rhythm. Set the slide count to match the user's request.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-inclusive-cutpaper-deck/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-interactive-system-map",
-  "title": "Interactive System Map",
-  "summary": "Build an offline interactive system map from a written description, code evidence, or a typed node-and-edge specification. The result makes architecture, data flow, sequence, and lifecycle relationships explorable without relying on a diagram service.",
-  "category": "web-pages",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-interactive-system-map/preview-1.webp",
-  "downloads": 1
- },
- {
   "slug": "github-copywriting",
   "title": "Landing Page Copywriting",
   "summary": "Plan and rewrite marketing copy for homepages, landing pages and product pages.",
@@ -421,19 +120,6 @@
    "Cursor"
   ],
   "cover": "/skill-media/github-copywriting/cover.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-learning-loop-deck",
-  "title": "Learning Loop Deck",
-  "summary": "Turn rough training material into a bright, learner-centered HTML deck with explicit outcomes, short explain-engage-apply loops, practice, feedback, and an action commitment. Use this whenever a user needs a workshop, onboarding, enablement, or instructional presentation that people must act on rather than merely read.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-learning-loop-deck/preview-1.webp",
   "downloads": 0
  },
  {
@@ -448,45 +134,6 @@
   "downloads": 0
  },
  {
-  "slug": "bs-linktree-style-og",
-  "title": "Linktree Style OG Image",
-  "summary": "Create Linktree-style OG images. Use them for social media posts.",
-  "category": "design",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-linktree-style-og/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-hyperframes-liquid-logo-reveal",
-  "title": "Liquid-Rupture Logo Reveal",
-  "summary": "Build a short logo-reveal sting where the mark rides inside a bead of liquid, refracted past the point of legibility, until the bead ruptures and leaves the lockup crisp on the frame. Delivered as a rendered MP4 plus the editable project, with no 3D asset and no generation model involved.",
-  "category": "video-animation",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-hyperframes-liquid-logo-reveal/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-testimonial-masonry-wall",
-  "title": "Masonry Testimonial Wall",
-  "summary": "Masonry Testimonial Wall is a ready-to-paste testimonial section, delivered as editable source with its usage example. It ships with a canvas-rendered backdrop that runs without a WebGL library and entrance motion that settles rather than bounces. Colour, type and radius live as tokens you edit once for the whole block.",
-  "category": "web-pages",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-testimonial-masonry-wall/preview-1.webp",
-  "downloads": 0
- },
- {
   "slug": "meeting-gate-agenda",
   "title": "Meeting Gate and Agenda",
   "summary": "Price every meeting in dollars, gate it against a decision test, and leave with a timeboxed agenda and owned actions.",
@@ -495,69 +142,6 @@
    "Claude"
   ],
   "cover": "/skill-media/meeting-gate-agenda/cover-en.svg",
-  "downloads": 0
- },
- {
-  "slug": "bs-hero-minimal-motion",
-  "title": "Minimal Motion Hero",
-  "summary": "Minimal Motion Hero is a ready-to-paste hero section, delivered as editable source with its usage example. It ships with entrance motion that settles rather than bounces and state the visitor can change and see respond. Colour, type and radius live as tokens you edit once for the whole block.",
-  "category": "web-pages",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-hero-minimal-motion/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-monochrome-studio-portrait",
-  "title": "Monochrome Studio Portrait",
-  "summary": "Transform an authorized portrait into a refined black-and-white studio half portrait with soft directional light, natural texture, subtle grain, and deliberate negative space. It gives editors and personal brands a calm, distinctive image for profiles and social use while preserving the subject's identity and glasses on a best-effort basis.",
-  "category": "design",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-monochrome-studio-portrait/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-notion-style-og",
-  "title": "Notion Style OG Image",
-  "summary": "Create Notion-style OG images. Use them for social media posts.",
-  "category": "design",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-notion-style-og/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-ochre-editorial-deck",
-  "title": "Ochre Editorial Deck",
-  "summary": "Create an editorial presentation with cream paper, oversized compressed headlines, warm portrait collages, mustard and vermilion color fields, and original craft photography. Every image is independently composed and used once. The slide count follows your request, with artwork planned around the content of each page.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-ochre-editorial-deck/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-playful-primary-classroom-deck",
-  "title": "Playful Primary Classroom Deck",
-  "summary": "Create an editable presentation with friendly bold headings with handwritten accents, ink-outline original children, pastel cards, and colorful doodle corners. Turn children’s creativity classes, hands-on activities, and family workshops into a clear sequence you can revise in your browser and export to PowerPoint.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude"
-  ],
-  "cover": "/skill-media/bs-playful-primary-classroom-deck/preview-1.webp",
   "downloads": 0
  },
  {
@@ -583,19 +167,6 @@
   "downloads": 0
  },
  {
-  "slug": "bs-project-knowledge-graph",
-  "title": "Project Knowledge Graph",
-  "summary": "Create an offline project knowledge graph from Markdown, structured records, or a directory inventory. The result helps people browse entities, trace relationships, filter by type, and inspect the recorded source path behind each claim.",
-  "category": "web-pages",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-project-knowledge-graph/preview-1.webp",
-  "downloads": 1
- },
- {
   "slug": "project-portfolio-review",
   "title": "Project Portfolio Review",
   "summary": "Score portfolio health, quantify risks with EMV and optimize resource capacity like a senior PM.",
@@ -618,45 +189,6 @@
   "downloads": 0
  },
  {
-  "slug": "bs-research-talk-deck",
-  "title": "Research Talk Deck",
-  "summary": "Create a projection-ready Beamer/metropolis-inspired 16:9 HTML research talk with equations, method cadence, results, limits, slide numbers, and speaker notes. Use for colloquia, defenses, group meetings, and technical conference talks.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-research-talk-deck/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-sage-sneaker-store",
-  "title": "Sage Sneaker Store",
-  "summary": "Build a complete multi-page website with a sage hero, oversized white uppercase type, an editorial model photograph, white proof cards and clean product grids. Includes connected content pages and interactive controls, with a reusable visual system for new brands and content.",
-  "category": "marketing",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-sage-sneaker-store/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-scattered-cards-magazine",
-  "title": "Scattered-Cards Magazine",
-  "summary": "Build a complete multi-page website with a white editorial ground, a fan of rotated article cards, a ruled topic index and generous photographic story grids. Includes connected content pages and interactive controls, with a reusable visual system for new brands and content.",
-  "category": "marketing",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-scattered-cards-magazine/preview-1.webp",
-  "downloads": 0
- },
- {
   "slug": "github-scipilot-figure-skill",
   "title": "Scientific Figure Advisor",
   "summary": "Analyze data and the intended argument, select a chart type, draw and visually inspect scientific figures, then export them.",
@@ -670,19 +202,6 @@
   "downloads": 1
  },
  {
-  "slug": "bs-scrapbook-resume-site",
-  "title": "Scrapbook Resume Site",
-  "summary": "A multi-page online resume site in a scrapbook grammar: a lanyard ID badge, a taped contact card, a torn notepaper intro, a cobalt marquee ribbon and a clipboard of sticky-note roles, with pages for Home, Experience plus three role stories, Education, Skills and Tools, Projects plus four case pages, Kind words and Contact. Every name, role and image is original, so you drop in your own story without inheriting anyone else's. Ideal for designers and job seekers who want a CV that feels handmade rather than templated.",
-  "category": "marketing",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-scrapbook-resume-site/preview-1.webp",
-  "downloads": 3
- },
- {
   "slug": "seedance-2-5-video-director",
   "title": "Seedance 2.5 Video Director",
   "summary": "Design, optimize and diagnose Dreamina Seedance 2.5 prompts: 4-180s videos, extensions, smart edits, seamless transitions and multi-grid storyboards with director-grade plans.",
@@ -692,32 +211,6 @@
   ],
   "cover": "/skill-media/seedance-2-5-video-director/frame-75.jpg",
   "downloads": 3
- },
- {
-  "slug": "bs-sky-glass-deck",
-  "title": "Sky Glass Deck",
-  "summary": "Create a presentation with luminous sky photography, translucent glass cards, and elegant mixed typography. Use original, non-repeating imagery to make a complex subject feel approachable and clear. The slide count follows your request, with artwork planned around the content of each page.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-sky-glass-deck/preview-1.webp",
-  "downloads": 0
- },
- {
-  "slug": "bs-slate-admin-console",
-  "title": "Slate Admin Console",
-  "summary": "Create a complete SaaS admin console with analytics, finance, customers, planning, and calendar views in a calm, data-first visual system. It helps teams turn operational information into a coherent daily workspace for monitoring, managing, and demonstrating their product.",
-  "category": "design",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-slate-admin-console/preview-1.webp",
-  "downloads": 0
  },
  {
   "slug": "github-ui-ux-pro-max",
@@ -733,19 +226,6 @@
   "downloads": 0
  },
  {
-  "slug": "bs-hyperframes-velocity-sting",
-  "title": "Velocity-Matched UI Sting",
-  "summary": "Build a short product sting where every cut is velocity-matched, so seven scenes read as one continuous camera move instead of a stack of screens. Delivered as a rendered MP4 plus a single-file project carrying a seam ledger, so the piece can be re-branded later without the motion coming apart.",
-  "category": "video-animation",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-hyperframes-velocity-sting/preview-1.webp",
-  "downloads": 0
- },
- {
   "slug": "weekly-review-system",
   "title": "Weekly Review System",
   "summary": "Run a GTD-style weekly review that closes open loops and returns a commitment health score.",
@@ -754,19 +234,6 @@
    "Claude"
   ],
   "cover": "/skill-media/weekly-review-system/cover-en.svg",
-  "downloads": 0
- },
- {
-  "slug": "bs-yellow-sketchnote-deck",
-  "title": "Yellow Sketchnote Deck",
-  "summary": "Create bold editorial presentation pages with oversized black and yellow typography, crisp white space, asymmetric copy islands, fine ink figures and independent original illustrations. Use this visual language to present small-team experiments with a clear, consistent rhythm. The slide count follows your brief, with original artwork planned around the content and layouts.",
-  "category": "powerpoint",
-  "compatibility": [
-   "Claude",
-   "Codex",
-   "Cursor"
-  ],
-  "cover": "/skill-media/bs-yellow-sketchnote-deck/preview-1.webp",
   "downloads": 0
  }
 ]
