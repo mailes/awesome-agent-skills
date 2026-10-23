@@ -22,6 +22,28 @@
   "downloads": 0
  },
  {
+  "slug": "confetti-album-engine",
+  "title": "Confetti Album",
+  "summary": "Generate a \"Confetti\" summer album deck: white pages scattered with periwinkle confetti (discs, diamonds, squares and rings), the black display, the white caption box with its black frame and periwinkle offset shadow, arch-topped photograph frames and diamond photo slots - a playful loose-leaf reel.",
+  "category": "powerpoint",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor"
+  ],
+  "cover": "/skill-media/confetti-album-engine/cover-150.png",
+  "downloads": 0
+ },
+ {
+  "slug": "confetti-album-engine-template",
+  "title": "Confetti Album Template",
+  "summary": "A finished summer album: confetti, arch frames, offset shadows - fully editable PPTX.",
+  "category": "powerpoint",
+  "compatibility": [],
+  "cover": "/skill-media/confetti-album-engine-template/cover.png",
+  "downloads": 0
+ },
+ {
   "slug": "data-quality-report",
   "title": "Data Quality Report",
   "summary": "Inspect CSV duplicates and missing values with a column-by-column HTML and JSON report.",
@@ -88,6 +110,28 @@
   "downloads": 0
  },
  {
+  "slug": "greyband-plan-engine",
+  "title": "Greyband Plan",
+  "summary": "Generate a \"Greyband\" project-plan deck: white pages carrying a wide near-black band with white rounded cards pushed out through its lower edge, the giant 01-04 numerals, thin rules, slanted mid-grey footer bands and the grey-green accent - a calm engineering document.",
+  "category": "powerpoint",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor"
+  ],
+  "cover": "/skill-media/greyband-plan-engine/cover-150.png",
+  "downloads": 0
+ },
+ {
+  "slug": "greyband-plan-engine-template",
+  "title": "Greyband Plan Template",
+  "summary": "A finished project plan: near-black band, cards through its edge, slanted bands - fully editable PPTX.",
+  "category": "powerpoint",
+  "compatibility": [],
+  "cover": "/skill-media/greyband-plan-engine-template/cover.png",
+  "downloads": 0
+ },
+ {
   "slug": "inbox-triage",
   "title": "Inbox Triage",
   "summary": "Classify recent email against your own taxonomy and return take/pass recommendations with reply drafts — never sends.",
@@ -120,6 +164,19 @@
    "Cursor"
   ],
   "cover": "/skill-media/github-copywriting/cover.webp",
+  "downloads": 0
+ },
+ {
+  "slug": "lantern-cut-sheet-motion",
+  "title": "LANTERN — Cut Sheet Motion Skill",
+  "summary": "Skill: 12-second silent UI film where a four-word question lands, a 1240x580 cut sheet races up and the same line docks into its header, a modal types a two-cut batch, slots two and three fill, the header count jumps from 1 OF 3 to 3 OF 3 while the clock runs 00:12 to 00:36, and the film ends on two stacked ready cards. Editable CONFIG source, local Instrument Serif/Schibsted Grotesk and the unchanged original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor"
+  ],
+  "cover": "/skill-media/lantern-cut-sheet-motion/lantern-cover-20261023.png",
   "downloads": 0
  },
  {
@@ -211,6 +268,32 @@
   ],
   "cover": "/skill-media/seedance-2-5-video-director/frame-75.jpg",
   "downloads": 3
+ },
+ {
+  "slug": "showtime-voice-bars-motion",
+  "title": "SHOWTIME — Voice Bars Motion Skill",
+  "summary": "Content-adaptation workflow: 12-second selection-to-bars CTA. A language pill expands into voice choices,contracts into playback controls,and the same original landscape crops into a two-bar mark before the closing CTA. Source, local Yantramanav/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor"
+  ],
+  "cover": "/skill-media/showtime-voice-bars-motion/showtime-cover-20261023.png",
+  "downloads": 0
+ },
+ {
+  "slug": "showtime-voice-bars-motion-template",
+  "title": "SHOWTIME — Voice Bars Motion Template",
+  "summary": "Finished original template: 12-second selection-to-bars CTA. A language pill expands into voice choices,contracts into playback controls,and the same original landscape crops into a two-bar mark before the closing CTA. Source, local Yantramanav/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor"
+  ],
+  "cover": "/skill-media/showtime-voice-bars-motion-template/showtime-cover-20261023.png",
+  "downloads": 0
  },
  {
   "slug": "github-ui-ux-pro-max",

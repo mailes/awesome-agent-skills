@@ -1,6 +1,6 @@
 # Awesome Agent Skills
 
-**21 free, ready-to-run skills for Claude Code, Codex & Cursor — web pages, slides, videos, data, automation. One-click install, no signup.**
+**28 free, ready-to-run skills for Claude Code, Codex & Cursor — web pages, slides, videos, data, automation. One-click install, no signup.**
 
 Every entry below is a packaged agent skill you can install from
 [WorkSkill](https://workskill.tools) and run in your agent today: generate landing pages and decks,
@@ -85,13 +85,13 @@ Machine-readable: [`data/free-skills.json`](data/free-skills.json) · Regenerate
 
 ---
 
-## Presentations · 1 skills
+## Presentations · 5 skills
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| <a href="https://workskill.tools/skills/pptx-from-layouts"><img src="https://workskill.tools/skill-media/pptx-from-layouts/cover-en.svg" width="180" alt="PPTX From Layouts"><br><sub><b>PPTX From Layouts</b></sub></a> |
+| <a href="https://workskill.tools/skills/confetti-album-engine"><img src="https://workskill.tools/skill-media/confetti-album-engine/cover-150.png" width="180" alt="Confetti Album"><br><sub><b>Confetti Album</b></sub></a> | <a href="https://workskill.tools/skills/confetti-album-engine-template"><img src="https://workskill.tools/skill-media/confetti-album-engine-template/cover.png" width="180" alt="Confetti Album Template"><br><sub><b>Confetti Album Template</b></sub></a> | <a href="https://workskill.tools/skills/greyband-plan-engine"><img src="https://workskill.tools/skill-media/greyband-plan-engine/cover-150.png" width="180" alt="Greyband Plan"><br><sub><b>Greyband Plan</b></sub></a> | <a href="https://workskill.tools/skills/greyband-plan-engine-template"><img src="https://workskill.tools/skill-media/greyband-plan-engine-template/cover.png" width="180" alt="Greyband Plan Template"><br><sub><b>Greyband Plan Template</b></sub></a> | <a href="https://workskill.tools/skills/pptx-from-layouts"><img src="https://workskill.tools/skill-media/pptx-from-layouts/cover-en.svg" width="180" alt="PPTX From Layouts"><br><sub><b>PPTX From Layouts</b></sub></a> |
 
-*1 skills — click any card to open its install page.*
+*5 skills — click any card to open its install page.*
 
 
 ---
@@ -129,13 +129,13 @@ Machine-readable: [`data/free-skills.json`](data/free-skills.json) · Regenerate
 
 ---
 
-## Video & Animation · 2 skills
+## Video & Animation · 5 skills
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| <a href="https://workskill.tools/skills/remotion-motion-graphics"><img src="https://workskill.tools/skill-media/remotion-motion-graphics/cover-en.svg" width="180" alt="Remotion Motion Graphics"><br><sub><b>Remotion Motion Graphics</b></sub></a> | <a href="https://workskill.tools/skills/seedance-2-5-video-director"><img src="https://workskill.tools/skill-media/seedance-2-5-video-director/frame-75.jpg" width="180" alt="Seedance 2.5 Video Director"><br><sub><b>Seedance 2.5 Video Director</b></sub></a> |
+| <a href="https://workskill.tools/skills/lantern-cut-sheet-motion"><img src="https://workskill.tools/skill-media/lantern-cut-sheet-motion/lantern-cover-20261023.png" width="180" alt="LANTERN — Cut Sheet Motion Skill"><br><sub><b>LANTERN — Cut Sheet Motion Skill</b></sub></a> | <a href="https://workskill.tools/skills/remotion-motion-graphics"><img src="https://workskill.tools/skill-media/remotion-motion-graphics/cover-en.svg" width="180" alt="Remotion Motion Graphics"><br><sub><b>Remotion Motion Graphics</b></sub></a> | <a href="https://workskill.tools/skills/seedance-2-5-video-director"><img src="https://workskill.tools/skill-media/seedance-2-5-video-director/frame-75.jpg" width="180" alt="Seedance 2.5 Video Director"><br><sub><b>Seedance 2.5 Video Director</b></sub></a> | <a href="https://workskill.tools/skills/showtime-voice-bars-motion"><img src="https://workskill.tools/skill-media/showtime-voice-bars-motion/showtime-cover-20261023.png" width="180" alt="SHOWTIME — Voice Bars Motion Skill"><br><sub><b>SHOWTIME — Voice Bars Motion Skill</b></sub></a> | <a href="https://workskill.tools/skills/showtime-voice-bars-motion-template"><img src="https://workskill.tools/skill-media/showtime-voice-bars-motion-template/showtime-cover-20261023.png" width="180" alt="SHOWTIME — Voice Bars Motion Template"><br><sub><b>SHOWTIME — Voice Bars Motion Template</b></sub></a> |
 
-*2 skills — click any card to open its install page.*
+*5 skills — click any card to open its install page.*
 
 
 ---

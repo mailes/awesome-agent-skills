@@ -1,6 +1,6 @@
 # Awesome Agent Skills — 免费 Agent 技能图鉴
 
-**21 个免费、开箱即用的 Agent 技能，覆盖 Claude Code、Codex 与 Cursor——网页、幻灯片、视频、数据、自动化。一键安装，无需注册。**
+**28 个免费、开箱即用的 Agent 技能，覆盖 Claude Code、Codex 与 Cursor——网页、幻灯片、视频、数据、自动化。一键安装，无需注册。**
 
 下面每个条目都是打包好的 Agent 技能，来自 [WorkSkill](https://workskill.tools)，
 装完就能用：生成落地页和演示文稿、剪动效发布片、处理表格、搭建仪表盘——
@@ -84,13 +84,13 @@ Agent 能力是新的「应用商店」，但好技能散落在各个仓库和�
 
 ---
 
-## 演示文稿 · 1 个
+## 演示文稿 · 5 个
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| <a href="https://workskill.tools/skills/pptx-from-layouts"><img src="https://workskill.tools/skill-media/pptx-from-layouts/cover-en.svg" width="180" alt="版式化 PPT 生成"><br><sub><b>版式化 PPT 生成</b></sub></a> |
+| <a href="https://workskill.tools/skills/confetti-album-engine"><img src="https://workskill.tools/skill-media/confetti-album-engine/cover-150.png" width="180" alt="彩屑夏日影集"><br><sub><b>彩屑夏日影集</b></sub></a> | <a href="https://workskill.tools/skills/confetti-album-engine-template"><img src="https://workskill.tools/skill-media/confetti-album-engine-template/cover.png" width="180" alt="彩屑夏日影集模板"><br><sub><b>彩屑夏日影集模板</b></sub></a> | <a href="https://workskill.tools/skills/greyband-plan-engine"><img src="https://workskill.tools/skill-media/greyband-plan-engine/cover-150.png" width="180" alt="灰带计划"><br><sub><b>灰带计划</b></sub></a> | <a href="https://workskill.tools/skills/greyband-plan-engine-template"><img src="https://workskill.tools/skill-media/greyband-plan-engine-template/cover.png" width="180" alt="灰带计划模板"><br><sub><b>灰带计划模板</b></sub></a> | <a href="https://workskill.tools/skills/pptx-from-layouts"><img src="https://workskill.tools/skill-media/pptx-from-layouts/cover-en.svg" width="180" alt="版式化 PPT 生成"><br><sub><b>版式化 PPT 生成</b></sub></a> |
 
-*共 1 个——点击任意卡片打开安装页。*
+*共 5 个——点击任意卡片打开安装页。*
 
 
 ---
@@ -128,13 +128,13 @@ Agent 能力是新的「应用商店」，但好技能散落在各个仓库和�
 
 ---
 
-## 视频与动画 · 2 个
+## 视频与动画 · 5 个
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| <a href="https://workskill.tools/skills/remotion-motion-graphics"><img src="https://workskill.tools/skill-media/remotion-motion-graphics/cover-en.svg" width="180" alt="Remotion 动效视频"><br><sub><b>Remotion 动效视频</b></sub></a> | <a href="https://workskill.tools/skills/seedance-2-5-video-director"><img src="https://workskill.tools/skill-media/seedance-2-5-video-director/frame-75.jpg" width="180" alt="Seedance 2.5 视频导演"><br><sub><b>Seedance 2.5 视频导演</b></sub></a> |
+| <a href="https://workskill.tools/skills/lantern-cut-sheet-motion"><img src="https://workskill.tools/skill-media/lantern-cut-sheet-motion/lantern-cover-20261023.png" width="180" alt="LANTERN · 剪切单动效Skill"><br><sub><b>LANTERN · 剪切单动效Skill</b></sub></a> | <a href="https://workskill.tools/skills/remotion-motion-graphics"><img src="https://workskill.tools/skill-media/remotion-motion-graphics/cover-en.svg" width="180" alt="Remotion 动效视频"><br><sub><b>Remotion 动效视频</b></sub></a> | <a href="https://workskill.tools/skills/seedance-2-5-video-director"><img src="https://workskill.tools/skill-media/seedance-2-5-video-director/frame-75.jpg" width="180" alt="Seedance 2.5 视频导演"><br><sub><b>Seedance 2.5 视频导演</b></sub></a> | <a href="https://workskill.tools/skills/showtime-voice-bars-motion"><img src="https://workskill.tools/skill-media/showtime-voice-bars-motion/showtime-cover-20261023.png" width="180" alt="SHOWTIME · 选项双条动效 Skill"><br><sub><b>SHOWTIME · 选项双条动效 Skill</b></sub></a> | <a href="https://workskill.tools/skills/showtime-voice-bars-motion-template"><img src="https://workskill.tools/skill-media/showtime-voice-bars-motion-template/showtime-cover-20261023.png" width="180" alt="SHOWTIME · 选项双条动效模板"><br><sub><b>SHOWTIME · 选项双条动效模板</b></sub></a> |
 
-*共 2 个——点击任意卡片打开安装页。*
+*共 5 个——点击任意卡片打开安装页。*
 
 
 ---
