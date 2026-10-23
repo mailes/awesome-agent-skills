@@ -1,5 +1,18 @@
 [
  {
+  "slug": "badgebright-badge-panel-pulse-motion-template",
+  "title": "BADGEBRIGHT — Badge Panel Pulse Motion Template",
+  "summary": "Template: 12-second UI film where two side cards rise, a badge card opens into a six-cell panel, the six ring badges light one by one, a pulse carries the job across the lit badges into the result card and the panel gathers into one closing badge. Editable source, local Gantari/GSAP and the original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/badgebright-badge-panel-pulse-motion-template/badgebright-cover-20261022.png",
+  "downloads": 0
+ },
+ {
   "slug": "blender-image-to-3d",
   "title": "Blender Image-to-3D",
   "summary": "Build game-ready 3D assets in Blender from reference images through gated phases with rendered evidence.",
@@ -19,6 +32,32 @@
    "Codex"
   ],
   "cover": "/skill-media/business-email/cover-en.svg",
+  "downloads": 0
+ },
+ {
+  "slug": "checkoff-task-sync-motion",
+  "title": "CHECKOFF — Task Sync Motion Skill",
+  "summary": "Adapt the original 12-second task-sync demo: replace the address bar, window heading, file and media rows, price, checklist items, banner and palette while the staggered panel rise, cursor-driven actions, same-frame checklist ticks, progress fill and published banner stay intact. Editable HyperFrames source and original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/checkoff-task-sync-motion/checkoff-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "chorus-convergence-motion",
+  "title": "CHORUS — Agent Convergence Motion Skill",
+  "summary": "Adapt the original 12-second multi-agent convergence piece: replace the lane headers, task lines, result card and palette while the staggered lane rise, parallel task runs, same-frame four-way tick, conductor sweep and convergence into the result card stay intact. Editable HyperFrames source and original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/chorus-convergence-motion/chorus-cover-20261021.png",
   "downloads": 0
  },
  {
@@ -55,6 +94,19 @@
   "downloads": 0
  },
  {
+  "slug": "deadair-signal-reveal-motion",
+  "title": "DEADAIR — Signal Reveal Motion Skill",
+  "summary": "Content-adaptation workflow: a 12-second quiet-to-signal wordmark reveal with editable HTML/SVG, local Urbanist, GSAP and the original silent MP4.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/deadair-signal-reveal-motion/deadair-cover-20261021.png",
+  "downloads": 0
+ },
+ {
   "slug": "deep-research",
   "title": "Deep Research",
   "summary": "Run a disciplined multi-source research investigation with triangulated, adversarially-reviewed findings.",
@@ -77,6 +129,71 @@
   "downloads": 0
  },
  {
+  "slug": "dockside-claim-dock-reveal-motion-template",
+  "title": "DOCKSIDE — Claim Dock Reveal Motion Template",
+  "summary": "Template: 12-second poster-style UI film where six thin words hard-cut in while the line drifts left, a skill card slides in and lights its title letter by letter, the card slides aside to reveal a six-cell skill dock with one cell highlighted, and the claim lifts out as the workskill.tools wordmark lands. Editable source, local Work Sans/GSAP and the original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/dockside-claim-dock-reveal-motion-template/dockside-cover-20261022.png",
+  "downloads": 0
+ },
+ {
+  "slug": "dotfield-density-canvas-motion-template",
+  "title": "DOTFIELD — Dot-Canvas Launch Motion Template",
+  "summary": "The original finished 12-second dot-canvas launch film: HyperFrames HTML source with self-hosted Anton and the original 1920×1080 MP4. Edit copy in place; keep the canvas-leads-the-cut rhythm, the dot plates, the flood-back erase and the pin-prick breathing.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/dotfield-density-canvas-motion-template/dotfield-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "duet-wordmark-fusion-motion-template",
+  "title": "DUET — Wordmark Fusion Motion Template",
+  "summary": "The original finished 12-second wordmark-fusion partnership film: HyperFrames HTML source with self-hosted Syne and the original 1920×1080 MP4. Edit copy in place; keep the opposed slide-ins, the seamless fusion and the one-accent rule.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/duet-wordmark-fusion-motion-template/duet-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "eightbit-pixel-mascot-motion-template",
+  "title": "EIGHTBIT — Pixel Mascot Motion Template",
+  "summary": "The original finished 12-second pixel-platform reveal: HyperFrames HTML source with self-hosted Press Start 2P + VT323 and the original 1920×1080 MP4. Edit copy in place; keep the four-hop rhythm, the CRT flash and the victory-frame hold.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/eightbit-pixel-mascot-motion-template/eightbit-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "embark-tile-expand-motion",
+  "title": "EMBARK — Tile Expand Motion Skill",
+  "summary": "Content-adaptation workflow: 12-second square-unit CTA, 1 to 5 to 25 grid expansion, centre-unit lock and brand closing. Editable source, local Mada/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/embark-tile-expand-motion/embark-cover-20261022.png",
+  "downloads": 0
+ },
+ {
   "slug": "excel-cleanup",
   "title": "Excel Cleanup",
   "summary": "Trim whitespace, remove exact duplicate CSV rows and produce a reviewable quality report.",
@@ -86,6 +203,19 @@
   ],
   "cover": "/skill-media/excel-cleanup/cover-en.svg",
   "downloads": 5
+ },
+ {
+  "slug": "finale-mascot-signoff-motion-template",
+  "title": "FINALE — Mascot Signoff Motion Template",
+  "summary": "Finished original template: 12-second character CTA. Three creative steps complete, a five-word declaration appears, and the same bookmark mascot settles beside the brand with closed eyes. Editable source, local Rubik/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/finale-mascot-signoff-motion-template/finale-cover-20261022.png",
+  "downloads": 0
  },
  {
   "slug": "frame-template",
@@ -132,6 +262,32 @@
   "downloads": 0
  },
  {
+  "slug": "handraise-brush-invitation-motion",
+  "title": "HANDRAISE — Brush Invitation Motion Skill",
+  "summary": "Content-adaptation workflow: a 12-second directional brush invitation: a three-part headline, a reverse-wipe CTA, a domain reveal and one upward-arrow finish. Editable source, local Asap/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/handraise-brush-invitation-motion/handraise-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "hubworks-format-ring-convergence-motion-template",
+  "title": "HUBWORKS — Format Ring Convergence Motion Template",
+  "summary": "Template: 12-second dark schematic UI film where one statement line hard-cuts through four final words while a caret blinks, six upright format chips spin three full turns on a ring and settle, the ring contracts into a radial hub with drawn spokes, and the workskill.tools wordmark lands at its centre. Editable source, local Darker Grotesque/GSAP and the original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/hubworks-format-ring-convergence-motion-template/hubworks-cover-20261022.png",
+  "downloads": 0
+ },
+ {
   "slug": "inbox-triage",
   "title": "Inbox Triage",
   "summary": "Classify recent email against your own taxonomy and return take/pass recommendations with reply drafts — never sends.",
@@ -151,6 +307,32 @@
    "Claude"
   ],
   "cover": "/skill-media/inbox-setup/cover-en.svg",
+  "downloads": 0
+ },
+ {
+  "slug": "kickoff-orbit-converge-motion",
+  "title": "KICKOFF — Orbit Convergence Motion Skill",
+  "summary": "Content-adaptation workflow: a 12-second orbit-to-brand CTA: six upright labels sweep half an ellipse, converge into a six-blade emblem and resolve beside the wordmark. Editable source, local Barlow/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/kickoff-orbit-converge-motion/kickoff-cover-20261022.png",
+  "downloads": 0
+ },
+ {
+  "slug": "knobturn-lattice-multiply-motion-template",
+  "title": "KNOBTURN — Lattice Multiply Motion Template",
+  "summary": "Finished original template: 12-second knob-turn UI film, 8x8 dot-lattice multiplication, dive and pullback, band collapse, large count and progress bar. Editable source, local Familjen Grotesk/GSAP and the original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/knobturn-lattice-multiply-motion-template/knobturn-cover-20261022.png",
   "downloads": 0
  },
  {
@@ -202,6 +384,71 @@
   "downloads": 0
  },
  {
+  "slug": "merged-diff-review-motion",
+  "title": "MERGED — Diff Review Motion Skill",
+  "summary": "Adapt the original 12-second diff-review explainer: replace the window title, file line, diff rows, check lines, summary bar and palette while the panel rise, line-by-line render, green stain over additions, spinner-to-tick handoff and merged summary landing stay intact. Editable HyperFrames source and original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/merged-diff-review-motion/merged-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "morphos-format-shift-motion-template",
+  "title": "MORPHOS — Format Shift Motion Template",
+  "summary": "Finished original template: a 12-second shared-element card morph, wide to square to tall to wide, with one persistent folded-petal subject and brand endcard. Editable source, local Geist Sans/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/morphos-format-shift-motion-template/morphos-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "multiverse-parallel-worlds-motion-template",
+  "title": "MULTIVERSE — Parallel Worlds Motion Template",
+  "summary": "Finished original template: a 12-second three-world motion study: outline, solid and fixed-dot rhombi synchronize and converge into one brand symbol. Editable source, local Onest/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/multiverse-parallel-worlds-motion-template/multiverse-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "pillshade-pill-pile-collapse-motion-template",
+  "title": "PILLSHADE — Pill Pile Collapse Motion Template",
+  "summary": "Template: 12-second UI film where a big hook contracts to the corner, eight tool pills pile up with unread badges, a shade block writes the problem, a search returns three conflicting answers and the whole pile gathers into one closing pill. Editable source, local Plus Jakarta Sans/GSAP and the original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/pillshade-pill-pile-collapse-motion-template/pillshade-cover-20261022.png",
+  "downloads": 0
+ },
+ {
+  "slug": "pivotpoint-mode-switch-motion-template",
+  "title": "PIVOTPOINT — Mode Switch Motion Template",
+  "summary": "Template: 12-second two-mode UI film where a sheet rises over a draft teaser, the camera pushes into a DRAFT/STUDIO switch, the knob slides and a circle springs out of it to re-skin the whole world from bone to deep wine while the placeholder rows become real values, then the identity block rolls \"Hello,\" into the product name. Editable source, local Space Grotesk/GSAP and the unchanged original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/pivotpoint-mode-switch-motion-template/pivotpoint-cover-20261022.png",
+  "downloads": 0
+ },
+ {
   "slug": "pptx-from-layouts",
   "title": "PPTX From Layouts",
   "summary": "Generate consultant-quality PowerPoint decks from markdown outlines using your template's real slide-master layouts.",
@@ -232,6 +479,45 @@
    "Claude"
   ],
   "cover": "/skill-media/project-portfolio-review/cover-en.svg",
+  "downloads": 0
+ },
+ {
+  "slug": "punchline-pain-stamp-motion-template",
+  "title": "PUNCHLINE — Pain Stamp Motion Template",
+  "summary": "The original finished 12-second comedy reversal: HyperFrames HTML source with self-hosted Gabarito and the original 1920×1080 MP4. Edit copy in place; keep the build-up rhythm, the desk shake, the scatter and the stamp slam.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/punchline-pain-stamp-motion-template/punchline-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "rebuttal-objection-reversal-motion-template",
+  "title": "REBUTTAL — Objection Reversal Motion Template",
+  "summary": "The original finished 12-second objection-reversal film: HyperFrames HTML source with self-hosted Unbounded and the original 1920×1080 MP4. Edit copy in place; keep the throw-in rhythm, the two-sided card flips, the column realignment and the one-accent rule.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/rebuttal-objection-reversal-motion-template/rebuttal-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "reframe-argument-alignment-motion-template",
+  "title": "REFRAME — Argument Alignment Motion Template",
+  "summary": "The original finished 12-second misalignment-alignment argument film: HyperFrames HTML source with self-hosted Instrument Sans and the original 1920×1080 MP4. Edit copy in place; keep the misaligned landings, the sequential snap-to-slot realignment and the one-accent rule.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/reframe-argument-alignment-motion-template/reframe-cover-20261021.png",
   "downloads": 0
  },
  {
@@ -270,6 +556,19 @@
   "downloads": 3
  },
  {
+  "slug": "shout-title-takeover-motion",
+  "title": "SHOUT — Title Takeover Motion Skill",
+  "summary": "Adapt the original 12-second title-takeover intro: replace the lockup, tagline, side card and palette while the letters-grow-behind, silhouette-exits-type-stays beat and endcard hold stay intact. Editable HyperFrames source and original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/shout-title-takeover-motion/shout-cover-20261020.png",
+  "downloads": 0
+ },
+ {
   "slug": "showtime-voice-bars-motion",
   "title": "SHOWTIME — Voice Bars Motion Skill",
   "summary": "Content-adaptation workflow: 12-second selection-to-bars CTA. A language pill expands into voice choices,contracts into playback controls,and the same original landscape crops into a two-bar mark before the closing CTA. Source, local Yantramanav/GSAP and original silent MP4 included.",
@@ -296,6 +595,97 @@
   "downloads": 0
  },
  {
+  "slug": "springboard-cursor-fold-motion-template",
+  "title": "SPRINGBOARD — Cursor Fold Motion Template",
+  "summary": "Finished original template: 12-second cursor-click CTA. Two button panels fold continuously into a paper arrow and brand closing. Editable source, local Epilogue/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/springboard-cursor-fold-motion-template/springboard-cover-20261022.png",
+  "downloads": 0
+ },
+ {
+  "slug": "swatch-material-assembly-motion",
+  "title": "SWATCH — Material Assembly Motion Skill",
+  "summary": "Content-adaptation workflow: a 12-second geometric-texture reveal where woven, ribbed and speckled samples progressively fill and the same panels assemble into a product card. Editable source, local Public Sans/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/swatch-material-assembly-motion/swatch-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "takeoff-select-tap-motion-template",
+  "title": "TAKEOFF — Select Tap Motion Template",
+  "summary": "Finished original template: 12-second creative-card CTA. A three-card selector leads to a card tapping an abstract phone, then the play mark becomes a brand closing. Editable source, local Chivo/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/takeoff-select-tap-motion-template/takeoff-cover-20261022.png",
+  "downloads": 0
+ },
+ {
+  "slug": "tally-dot-aggregate-motion",
+  "title": "TALLY — Dot Aggregate Motion Skill",
+  "summary": "Adapt the original 12-second data tally: replace the kicker, dot count, result number, label, brand line and palette while the curved-trail whip-ins, landing stains, convergence into one glowing disc, the counted-up number and the long hold stay intact. Editable HyperFrames source and original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/tally-dot-aggregate-motion/tally-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "threadline-persistent-thread-motion",
+  "title": "THREADLINE — Persistent Thread Motion Skill",
+  "summary": "Content-adaptation workflow: a 12-second persistent chat thread growing into a three-step demo workflow, with the original conversation and result retained in the final frame. Editable source, local Commissioner/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/threadline-persistent-thread-motion/threadline-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "toggle-segmented-shelf-motion-template",
+  "title": "TOGGLE — Segmented Shelf Motion Template",
+  "summary": "The original finished 12-second segmented-shelf UI film: HyperFrames HTML source with self-hosted Figtree and the original 1920×1080 MP4. Edit copy in place; keep the swing-in card, the three-beat handle slide and the one-accent rule.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/toggle-segmented-shelf-motion-template/toggle-cover-20261022.png",
+  "downloads": 0
+ },
+ {
+  "slug": "touchdown-gallery-pullback-motion-template",
+  "title": "TOUCHDOWN — Gallery Pullback Motion Template",
+  "summary": "Finished original template: 12-second gallery CTA. One hero pulls back into fifteen original geometric posters, then a two-button invitation appears over the softened gallery. Editable source, local Karla/GSAP and original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/touchdown-gallery-pullback-motion-template/touchdown-cover-20261022.png",
+  "downloads": 0
+ },
+ {
   "slug": "github-ui-ux-pro-max",
   "title": "UI/UX Design System",
   "summary": "Search industry and technology-specific palettes, typography, layouts and interaction rules to create a design system.",
@@ -317,6 +707,32 @@
    "Claude"
   ],
   "cover": "/skill-media/weekly-review-system/cover-en.svg",
+  "downloads": 0
+ },
+ {
+  "slug": "widgetco-corridor-collapse-motion-template",
+  "title": "WIDGETCO — Corridor Collapse Motion Template",
+  "summary": "Template: 12-second pine-green UI film where a slit widens into a portal, five same-aspect frames draw a corridor toward the viewer, three verbs rush out of the vanishing point and sweep past the camera, and the whole corridor collapses into one acid-lime tile above the product block. Editable source, local Archivo/GSAP and the original silent MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/widgetco-corridor-collapse-motion-template/widgetco-cover-20261022.png",
+  "downloads": 0
+ },
+ {
+  "slug": "wordplay-verb-flip-motion",
+  "title": "WORDPLAY — Verb Flip Motion Skill",
+  "summary": "Adapt the original 12-second verb-swap headline: replace the five headline words, the three flip verbs, the subline and palette while the word-by-word build with re-centring, the blocked verb, the squeeze-and-hard-swap rhythm and the lift-to-subline stay intact. Editable HyperFrames source and original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/wordplay-verb-flip-motion/wordplay-cover-20261021.png",
   "downloads": 0
  }
 ]
