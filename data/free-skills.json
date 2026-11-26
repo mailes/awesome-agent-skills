@@ -1,5 +1,45 @@
 [
  {
+  "slug": "alder-dental",
+  "title": "ALDER DENTAL — Practice Website (Skill)",
+  "summary": "A dental practice site with a timed opening, scroll reveals, service details and a local visit brief.",
+  "category": "web-pages",
+  "compatibility": [
+   "Codex"
+  ],
+  "cover": "/skill-media/alder-dental/cover-v1.png",
+  "downloads": 0
+ },
+ {
+  "slug": "alder-dental-template",
+  "title": "ALDER DENTAL — Practice Website (Template)",
+  "summary": "A dental practice site with a timed opening, scroll reveals, service details and a local visit brief.",
+  "category": "web-pages",
+  "compatibility": [],
+  "cover": "/skill-media/alder-dental-template/cover-v1.png",
+  "downloads": 0
+ },
+ {
+  "slug": "apogee",
+  "title": "APOGEE — Aerospace Propulsion Engineering Landing Page (Skill)",
+  "summary": "A Swiss-precision aerospace engineering site with launchpad video hero, interactive propulsion mission configurator, tolerance matrix and RFQ brief.",
+  "category": "web-pages",
+  "compatibility": [
+   "Codex"
+  ],
+  "cover": "/skill-media/apogee/cover-v1.png",
+  "downloads": 0
+ },
+ {
+  "slug": "apogee-template",
+  "title": "APOGEE — Aerospace Propulsion Engineering Landing Page (Template)",
+  "summary": "A free Swiss-precision aerospace engineering template with launchpad video hero, interactive mission configurator, tolerance matrix and RFQ brief.",
+  "category": "web-pages",
+  "compatibility": [],
+  "cover": "/skill-media/apogee-template/cover-v1.png",
+  "downloads": 0
+ },
+ {
   "slug": "badgebright-badge-panel-pulse-motion-template",
   "title": "BADGEBRIGHT — Badge Panel Pulse Motion Template",
   "summary": "Template: 12-second UI film where two side cards rise, a badge card opens into a six-cell panel, the six ring badges light one by one, a pulse carries the job across the lit badges into the result card and the panel gathers into one closing badge. Editable source, local Gantari/GSAP and the original silent MP4 included.",
@@ -10,7 +50,7 @@
    "Cursor"
   ],
   "cover": "/skill-media/badgebright-badge-panel-pulse-motion-template/badgebright-cover-20261022.png",
-  "downloads": 0
+  "downloads": 1
  },
  {
   "slug": "blender-image-to-3d",
@@ -21,6 +61,61 @@
    "Claude"
   ],
   "cover": "/skill-media/blender-image-to-3d/cover-en.svg",
+  "downloads": 1
+ },
+ {
+  "slug": "blomma",
+  "title": "BLOMMA — Fragrance Landing Page (Skill)",
+  "summary": "A bright fragrance landing page with scent panels, mood filters, per-size pricing and a local cart.",
+  "category": "web-pages",
+  "compatibility": [
+   "Codex"
+  ],
+  "cover": "/skill-media/blomma/cover-v1.png",
+  "downloads": 0
+ },
+ {
+  "slug": "blomma-template",
+  "title": "BLOMMA — Fragrance Landing Page (Template)",
+  "summary": "A bright fragrance landing page with scent panels, mood filters, per-size pricing and a local cart.",
+  "category": "web-pages",
+  "compatibility": [],
+  "cover": "/skill-media/blomma-template/cover-v1.png",
+  "downloads": 0
+ },
+ {
+  "slug": "bloomout-sketch-bloom-motion",
+  "title": "BLOOMOUT — Sketch-Bloom Motion Skill",
+  "summary": "Skill: 12-second silent UI film on a sage sketch-paper stage - a 480x300 double-stroke sketch frame draws itself in with two guide lines; three kelly-green seed dots pop inside, fly to the three shelf positions, and each blooms into a 400x260 warm-white card while the sketch frame burns away - revealing SPROUT KIT, BUD DECK and BLOOM PRESS, each with a SKILL eyebrow, a hand-drawn botanical ink drawing (sprout, bud, open flower) with the seed resting as its green flower-heart dot, and a 30 px Crete Round kelly-green price tag; the flower hearts pulse once, the cards each lift once, a FROM SKETCH TO SHELF declaration rises with a 24x3 kelly-green tick, and the counter swaps SKETCH 01 to BLOOM 03 in one frame; the lockup closes with the Crete Round wordmark BLOOMOUT, the tagline A sketch is a promise., the green rule and the brand line. Editable CONFIG source, local Crete Round and Ovo, and the unchanged original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/bloomout-sketch-bloom-motion/bloomout-cover-20261031.png",
+  "downloads": 0
+ },
+ {
+  "slug": "bloomout-sketch-bloom-motion-template",
+  "title": "BLOOMOUT — Sketch-Bloom Motion Template",
+  "summary": "Template: 12-second silent UI film on a sage sketch-paper stage - a 480x300 double-stroke sketch frame draws itself in with two guide lines; three kelly-green seed dots pop inside, fly to the three shelf positions, and each blooms into a 400x260 warm-white card while the sketch frame burns away - revealing SPROUT KIT, BUD DECK and BLOOM PRESS, each with a SKILL eyebrow, a hand-drawn botanical ink drawing (sprout, bud, open flower) with the seed resting as its green flower-heart dot, and a 30 px Crete Round kelly-green price tag; the flower hearts pulse once, the cards each lift once, a FROM SKETCH TO SHELF declaration rises with a 24x3 kelly-green tick, and the counter swaps SKETCH 01 to BLOOM 03 in one frame; the lockup closes with the Crete Round wordmark BLOOMOUT, the tagline A sketch is a promise., the green rule and the brand line. Editable CONFIG source, local Crete Round and Ovo, and the unchanged original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/bloomout-sketch-bloom-motion-template/bloomout-cover-20261031.png",
+  "downloads": 0
+ },
+ {
+  "slug": "blushwash-report-engine-template",
+  "title": "Blush Wash Report Template",
+  "summary": "A finished watercolour deck: white pages with pale rose washes bleeding in from the edges, soft wash bars, numbered discs and a bold grotesque - fully editable PPTX.",
+  "category": "powerpoint",
+  "compatibility": [],
+  "cover": "/skill-media/blushwash-report-engine-template/cover.png",
   "downloads": 0
  },
  {
@@ -32,6 +127,52 @@
    "Codex"
   ],
   "cover": "/skill-media/business-email/cover-en.svg",
+  "downloads": 1
+ },
+ {
+  "slug": "canto",
+  "title": "CANTO — Online Learning & Cohort Mastery SaaS (Skill)",
+  "summary": "A light-mode Scandinavian editorial EdTech site with expanding 3-card vertical-label accordion hero, live course search, syllabus drawer and team tuition planner.",
+  "category": "web-pages",
+  "compatibility": [
+   "Codex"
+  ],
+  "cover": "/skill-media/canto/cover-v1.png",
+  "downloads": 1
+ },
+ {
+  "slug": "canto-template",
+  "title": "CANTO — Online Learning & Cohort Mastery SaaS (Template)",
+  "summary": "A light-mode Scandinavian editorial EdTech HTML template with expanding 3-card accordion hero, live course search, syllabus drawer and team tuition planner.",
+  "category": "web-pages",
+  "compatibility": [],
+  "cover": "/skill-media/canto-template/cover-v1.png",
+  "downloads": 0
+ },
+ {
+  "slug": "cascade-scan-found-motion",
+  "title": "CASCADE — Scan-Found Motion Skill",
+  "summary": "Skill: 12-second silent UI film on a warm-paper canvas - three 400x280 white plates hold 336x112 dark thermal-view faces where the subject words RIVER, DELTA and EDDY cascade down into place (translateY -18 to 0), a four-edge detection frame bites shut around each word (top edge scaleX from the left, bottom from the right, left and right edges scaleY from opposite ends), a 56x16 cream FOUND chip drops onto the frame's top edge, and the plate copy fades in - RIVER DECK, DELTA KIT and EDDY LAB with SCAN eyebrows, 01/02/03 numbers and 30 px Yatra One price tags. Three 44x3 bronze underlines resolve, each plate settles with a single press, the declaration line DETECTED, LABELLED, SHIPPED floats out with its 24x3 rule, the counter swaps in place from COLD 03 to HOT 03, and the closing lockup reads CASCADE, Every word, found., workskill.tools and the captions. Original SVG geometry, one paused GSAP timeline, one editable config, self-hosted Yatra One and Abhaya Libre, and the unchanged original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/cascade-scan-found-motion/cascade-cover-20261102.png",
+  "downloads": 0
+ },
+ {
+  "slug": "cascade-scan-found-motion-template",
+  "title": "CASCADE — Scan-Found Motion Template",
+  "summary": "Template: 12-second silent UI film on a warm-paper canvas - three 400x280 white plates hold 336x112 dark thermal-view faces where the subject words RIVER, DELTA and EDDY cascade down into place (translateY -18 to 0), a four-edge detection frame bites shut around each word (top edge scaleX from the left, bottom from the right, left and right edges scaleY from opposite ends), a 56x16 cream FOUND chip drops onto the frame's top edge, and the plate copy fades in - RIVER DECK, DELTA KIT and EDDY LAB with SCAN eyebrows, 01/02/03 numbers and 30 px Yatra One price tags. Three 44x3 bronze underlines resolve, each plate settles with a single press, the declaration line DETECTED, LABELLED, SHIPPED floats out with its 24x3 rule, the counter swaps in place from COLD 03 to HOT 03, and the closing lockup reads CASCADE, Every word, found., workskill.tools and the captions. Original SVG geometry, one paused GSAP timeline, one editable config, self-hosted Yatra One and Abhaya Libre, and the unchanged original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/cascade-scan-found-motion-template/cascade-cover-20261102.png",
   "downloads": 0
  },
  {
@@ -45,7 +186,7 @@
    "Cursor"
   ],
   "cover": "/skill-media/checkoff-task-sync-motion/checkoff-cover-20261021.png",
-  "downloads": 0
+  "downloads": 1
  },
  {
   "slug": "chorus-convergence-motion",
@@ -58,7 +199,7 @@
    "Cursor"
   ],
   "cover": "/skill-media/chorus-convergence-motion/chorus-cover-20261021.png",
-  "downloads": 0
+  "downloads": 1
  },
  {
   "slug": "confetti-album-engine",
@@ -71,7 +212,7 @@
    "Cursor"
   ],
   "cover": "/skill-media/confetti-album-engine/cover-150.png",
-  "downloads": 0
+  "downloads": 1
  },
  {
   "slug": "confetti-album-engine-template",
@@ -83,6 +224,29 @@
   "downloads": 0
  },
  {
+  "slug": "crimsonribbon-report-engine-template",
+  "title": "Crimson Ribbon Report Template",
+  "summary": "A finished meeting deck: crimson fields with amber satin light, white pages with a crimson ribbon band, mono type, disc-in-ring units, stadium pills, chevron stacks and bow-ties - fully editable PPTX.",
+  "category": "powerpoint",
+  "compatibility": [],
+  "cover": "/skill-media/crimsonribbon-report-engine-template/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "cutout-social-cards",
+  "title": "Cutout Social Cards — Real-Photo Sticker Card Kit",
+  "summary": "Turn real photographs into cut-and-paste social cards. One command produces OG, square and portrait PNGs with white-rimmed sticker photos, paper tape, marker scribbles and condensed display type. Four palettes, fully editable copy, 18 finished cards included. Free.",
+  "category": "design",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI"
+  ],
+  "cover": "/skill-media/cutout-social-cards/cover.png",
+  "downloads": 0
+ },
+ {
   "slug": "data-quality-report",
   "title": "Data Quality Report",
   "summary": "Inspect CSV duplicates and missing values with a column-by-column HTML and JSON report.",
@@ -91,7 +255,7 @@
    "Codex"
   ],
   "cover": "/skill-media/data-quality-report/cover-en.svg",
-  "downloads": 0
+  "downloads": 1
  },
  {
   "slug": "deadair-signal-reveal-motion",
@@ -218,6 +382,60 @@
   "downloads": 0
  },
  {
+  "slug": "micro-flip-cards",
+  "title": "Flip Cards",
+  "summary": "Three cards turn face-up one after another on a top-edge hinge — 6 s, violet.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI",
+   "Windsurf",
+   "Cline",
+   "Aider",
+   "OpenCode",
+   "GitHub Copilot",
+   "Amp"
+  ],
+  "cover": "/skill-media/micro-flip-cards/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "micro-flip-cards-template",
+  "title": "Flip Cards Template",
+  "summary": "The finished Flip Cards cut as an editable project: one scene, one move, Violet Bloom. Open it, change the copy and the palette, re-render.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI",
+   "Windsurf",
+   "Cline",
+   "Aider",
+   "OpenCode",
+   "GitHub Copilot",
+   "Amp"
+  ],
+  "cover": "/skill-media/micro-flip-cards-template/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "founder-link-page",
+  "title": "Founder Link Page — Single-File Personal Site",
+  "summary": "Generate a complete personal link page as one HTML file: zero dependencies, no CDN, no build step. Five cold high-contrast palettes, square editorial layout, inlined Space Grotesk + IBM Plex Mono, JSON profile driven. Free.",
+  "category": "web-pages",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI"
+  ],
+  "cover": "/skill-media/founder-link-page/cover.png",
+  "downloads": 0
+ },
+ {
   "slug": "frame-template",
   "title": "FRAME — Photographic Archive HTML Template",
   "summary": "Free static photographic portfolio template with sixteen credited reference images, category filters, large-image browsing and a local edit list.",
@@ -310,6 +528,103 @@
   "downloads": 0
  },
  {
+  "slug": "inkdust-launch-film",
+  "title": "Ink Dust Launch",
+  "summary": "An 8-second launch film: a headline breaks into 620 particles and the dust gathers back into your wordmark. Five text slots, three themes, silent 1080p render.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor"
+  ],
+  "cover": "/skill-media/inkdust-launch-film/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "inkdust-launch-film-template",
+  "title": "Ink Dust Launch — Finished Pack",
+  "summary": "Two finished 8-second launch films — coral and indigo — plus the composition behind them and ten stills. Nothing to install.",
+  "category": "video-animation",
+  "compatibility": [],
+  "cover": "/skill-media/inkdust-launch-film-template/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "inkglow-report-engine-template",
+  "title": "Ink Glow Report Template",
+  "summary": "A finished cream-paper deck: indigo and coral display type, a soft peach glow behind the headlines, white cards and six corner labels - fully editable PPTX.",
+  "category": "powerpoint",
+  "compatibility": [],
+  "cover": "/skill-media/inkglow-report-engine-template/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "micro-iris-open",
+  "title": "Iris Open",
+  "summary": "Four bars iris the frame open on a real photograph — 6 s, cyan.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI",
+   "Windsurf",
+   "Cline",
+   "Aider",
+   "OpenCode",
+   "GitHub Copilot",
+   "Amp"
+  ],
+  "cover": "/skill-media/micro-iris-open/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "micro-iris-open-template",
+  "title": "Iris Open Template",
+  "summary": "The finished Iris Open cut as an editable project: one scene, one move, Candy Cyan. Open it, change the copy and the palette, re-render.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI",
+   "Windsurf",
+   "Cline",
+   "Aider",
+   "OpenCode",
+   "GitHub Copilot",
+   "Amp"
+  ],
+  "cover": "/skill-media/micro-iris-open-template/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "italicslant-lean-chase-motion",
+  "title": "ITALICSLANT — Lean-Chase Motion Skill",
+  "summary": "Skill: 12-second silent UI film on a cool gray-paper stage - three 400x260 warm-white cards rise with their verbs standing upright (DASH, RUSH, SWIFT above the nouns KIT, DECK, PRESS); one by one each verb leans into italic - its own skewX 0 to -12 degrees at its lower-left origin plus a 5 px chase toward the noun - and a 14x2 deep oxblood speed tick flicks out at the word's tail; each card carries a SKILL eyebrow, a dual-colour baseline group (ink 2 px main line plus muted 1 px hairline) and a 30 px Amaranth deep-oxblood price tag; the prices settle in, each verb takes one chase pulse (skewX -12 to -18 and back), a LEAN INTO THE UPDATE declaration rises with a 24x3 oxblood tick, and the counter swaps UPRIGHT 03 to LEANING 03 in one frame; the lockup closes with the Amaranth wordmark ITALICSLANT locked at skewX -8 degrees, the tagline The lean is the speed., the oxblood rule and the brand line. Editable CONFIG source, local Amaranth and Andada Pro, and the unchanged original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/italicslant-lean-chase-motion/italicslant-cover-20261102.png",
+  "downloads": 0
+ },
+ {
+  "slug": "italicslant-lean-chase-motion-template",
+  "title": "ITALICSLANT — Lean-Chase Motion Template",
+  "summary": "Template: 12-second silent UI film on a cool gray-paper stage - three 400x260 warm-white cards rise with their verbs standing upright (DASH, RUSH, SWIFT above the nouns KIT, DECK, PRESS); one by one each verb leans into italic - its own skewX 0 to -12 degrees at its lower-left origin plus a 5 px chase toward the noun - and a 14x2 deep oxblood speed tick flicks out at the word's tail; each card carries a SKILL eyebrow, a dual-colour baseline group (ink 2 px main line plus muted 1 px hairline) and a 30 px Amaranth deep-oxblood price tag; the prices settle in, each verb takes one chase pulse (skewX -12 to -18 and back), a LEAN INTO THE UPDATE declaration rises with a 24x3 oxblood tick, and the counter swaps UPRIGHT 03 to LEANING 03 in one frame; the lockup closes with the Amaranth wordmark ITALICSLANT locked at skewX -8 degrees, the tagline The lean is the speed., the oxblood rule and the brand line. Editable CONFIG source, local Amaranth and Andada Pro, and the unchanged original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/italicslant-lean-chase-motion-template/italicslant-cover-20261102.png",
+  "downloads": 0
+ },
+ {
   "slug": "kickoff-orbit-converge-motion",
   "title": "KICKOFF — Orbit Convergence Motion Skill",
   "summary": "Content-adaptation workflow: a 12-second orbit-to-brand CTA: six upright labels sweep half an ellipse, converge into a six-blade emblem and resolve beside the wordmark. Editable source, local Barlow/GSAP and original silent MP4 included.",
@@ -373,6 +688,20 @@
   "downloads": 0
  },
  {
+  "slug": "margin-notes-report",
+  "title": "Margin Notes Report — Hand-Drawn Project Retrospective",
+  "summary": "A 16-page English project retrospective in sketchnote style: notebook paper, marker headlines, hand-lettered notes, circles, arrows, highlighter strips and real photographs pasted in. Editable PPTX, PDF, single-file viewer, plus the generator and doodle assets. Free.",
+  "category": "powerpoint",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI"
+  ],
+  "cover": "/skill-media/margin-notes-report/cover.png",
+  "downloads": 0
+ },
+ {
   "slug": "meeting-gate-agenda",
   "title": "Meeting Gate and Agenda",
   "summary": "Price every meeting in dollars, gate it against a decision test, and leave with a timeboxed agenda and owned actions.",
@@ -420,6 +749,75 @@
    "Cursor"
   ],
   "cover": "/skill-media/multiverse-parallel-worlds-motion-template/multiverse-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "micro-odo-roll",
+  "title": "Odometer Roll",
+  "summary": "A number rolls to its value, formatted live, with its source attached — 6 s, indigo.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI",
+   "Windsurf",
+   "Cline",
+   "Aider",
+   "OpenCode",
+   "GitHub Copilot",
+   "Amp"
+  ],
+  "cover": "/skill-media/micro-odo-roll/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "micro-odo-roll-template",
+  "title": "Odometer Roll Template",
+  "summary": "The finished Odometer Roll cut as an editable project: one scene, one move, Electric Indigo. Open it, change the copy and the palette, re-render.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI",
+   "Windsurf",
+   "Cline",
+   "Aider",
+   "OpenCode",
+   "GitHub Copilot",
+   "Amp"
+  ],
+  "cover": "/skill-media/micro-odo-roll-template/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "offcut",
+  "title": "OFFCUT STUDIO — Project Price Estimator Landing Page (Skill)",
+  "summary": "A dark high-contrast studio estimator page with live scope math, agency comparison cards and honest demo inquiry.",
+  "category": "web-pages",
+  "compatibility": [
+   "Codex"
+  ],
+  "cover": "/skill-media/offcut/cover-v1.png",
+  "downloads": 0
+ },
+ {
+  "slug": "offcut-template",
+  "title": "OFFCUT STUDIO — Project Price Estimator Landing Page (Template)",
+  "summary": "A dark high-contrast studio estimator page with live scope math, agency comparison cards and honest demo inquiry.",
+  "category": "web-pages",
+  "compatibility": [],
+  "cover": "/skill-media/offcut-template/cover-v1.png",
+  "downloads": 0
+ },
+ {
+  "slug": "olivepress-report-engine-template",
+  "title": "Olive Press Report Template",
+  "summary": "A finished editorial deck: bone and olive grounds, olive section panels, twelve-square matrices, ruled tick scales, 72-96 pt serif type - fully editable PPTX.",
+  "category": "powerpoint",
+  "compatibility": [],
+  "cover": "/skill-media/olivepress-report-engine-template/cover.png",
   "downloads": 0
  },
  {
@@ -482,6 +880,28 @@
   "downloads": 0
  },
  {
+  "slug": "prooflane-template",
+  "title": "PROOFLANE — Creative Review SaaS Website HTML Template",
+  "summary": "Free complete nine-page HTML/CSS/JS SaaS website with review demo, pricing calculator, full guides and calendar exports.",
+  "category": "web-pages",
+  "compatibility": [],
+  "cover": "/skill-media/prooflane-template/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "prooflane",
+  "title": "PROOFLANE — Creative Review SaaS Website Skill",
+  "summary": "Free nine-page SaaS website adaptation workflow with a complete starter, design rules and tested brand initializer.",
+  "category": "web-pages",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/prooflane/cover.png",
+  "downloads": 0
+ },
+ {
   "slug": "punchline-pain-stamp-motion-template",
   "title": "PUNCHLINE — Pain Stamp Motion Template",
   "summary": "The original finished 12-second comedy reversal: HyperFrames HTML source with self-hosted Gabarito and the original 1920×1080 MP4. Edit copy in place; keep the build-up rhythm, the desk shake, the scatter and the stamp slam.",
@@ -492,6 +912,52 @@
    "Cursor"
   ],
   "cover": "/skill-media/punchline-pain-stamp-motion-template/punchline-cover-20261021.png",
+  "downloads": 0
+ },
+ {
+  "slug": "rapids-tunnel-arrive-motion",
+  "title": "RAPIDS — Tunnel-Arrive Motion Skill",
+  "summary": "Skill: 12-second silent UI film on a deep tunnel-night canvas - three 400x280 slate plates hold 336x112 tunnel mouths where four concentric 3px sodium-orange rings (radii 54/44/34/24) stream inward toward the vanishing point (each ring collapsing on its own centre scale with opacity to zero, outer first, staggered 0.07s), and as the stream closes a 96x64 product gate with its initial letter grows out of the vanishing point on its own scale (0.4 to 1) with opacity - FLUME KIT, SLUICE DECK and CANAL LAB arriving with THROUGH eyebrows, 01/02/03 numbers and 30 px Gruppo price tags. Three 44x3 sodium underlines resolve, each plate settles with a single press, the declaration line EVERY TUNNEL, AN EXIT floats out with its 24x3 rule, the counter swaps in place from STREAMING 03 to THROUGH 03, and the closing lockup reads RAPIDS, Every stream arrives., workskill.tools and the captions. Original SVG geometry, one paused GSAP timeline, one editable config, self-hosted Gruppo and Gowun Dodum, and the unchanged original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/rapids-tunnel-arrive-motion/rapids-cover-20261031.png",
+  "downloads": 0
+ },
+ {
+  "slug": "rapids-tunnel-arrive-motion-template",
+  "title": "RAPIDS — Tunnel-Arrive Motion Template",
+  "summary": "Template: 12-second silent UI film on a deep tunnel-night canvas - three 400x280 slate plates hold 336x112 tunnel mouths where four concentric 3px sodium-orange rings (radii 54/44/34/24) stream inward toward the vanishing point (each ring collapsing on its own centre scale with opacity to zero, outer first, staggered 0.07s), and as the stream closes a 96x64 product gate with its initial letter grows out of the vanishing point on its own scale (0.4 to 1) with opacity - FLUME KIT, SLUICE DECK and CANAL LAB arriving with THROUGH eyebrows, 01/02/03 numbers and 30 px Gruppo price tags. Three 44x3 sodium underlines resolve, each plate settles with a single press, the declaration line EVERY TUNNEL, AN EXIT floats out with its 24x3 rule, the counter swaps in place from STREAMING 03 to THROUGH 03, and the closing lockup reads RAPIDS, Every stream arrives., workskill.tools and the captions. Original SVG geometry, one paused GSAP timeline, one editable config, self-hosted Gruppo and Gowun Dodum, and the unchanged original MP4 included.",
+  "category": "video-animation",
+  "compatibility": [
+   "Codex",
+   "Claude",
+   "Cursor"
+  ],
+  "cover": "/skill-media/rapids-tunnel-arrive-motion-template/rapids-cover-20261031.png",
+  "downloads": 0
+ },
+ {
+  "slug": "raster",
+  "title": "RASTER LABS — Brutalist Retro-Digital Kinetic Studio (Skill)",
+  "summary": "A Y2K brutalist scroll-driven studio site with 60fps scroll-scrubbed CRT canvas, typewriter deletion hero, rolling manifesto, mouse-trail stickers and brutalist terminal form.",
+  "category": "web-pages",
+  "compatibility": [
+   "Codex"
+  ],
+  "cover": "/skill-media/raster/cover-v1.png",
+  "downloads": 0
+ },
+ {
+  "slug": "raster-template",
+  "title": "RASTER LABS — Brutalist Retro-Digital Kinetic Studio (Template)",
+  "summary": "A Y2K brutalist scroll-driven HTML template with 60fps scroll-scrubbed CRT canvas, typewriter deletion hero, rolling manifesto, mouse-trail stickers and terminal form.",
+  "category": "web-pages",
+  "compatibility": [],
+  "cover": "/skill-media/raster-template/cover-v1.png",
   "downloads": 0
  },
  {
@@ -532,6 +998,26 @@
   "downloads": 0
  },
  {
+  "slug": "rhea-vale",
+  "title": "RHEA VALE — 3D Creator Portfolio Website (Skill)",
+  "summary": "A 3D creator portfolio with magnetic bust hero, dual scrolling reel, sticky stacked project cards and case modals.",
+  "category": "web-pages",
+  "compatibility": [
+   "Codex"
+  ],
+  "cover": "/skill-media/rhea-vale/cover-v1.png",
+  "downloads": 0
+ },
+ {
+  "slug": "rhea-vale-template",
+  "title": "RHEA VALE — 3D Creator Portfolio Website (Template)",
+  "summary": "A 3D creator portfolio with magnetic bust hero, dual scrolling reel, sticky stacked project cards and case modals.",
+  "category": "web-pages",
+  "compatibility": [],
+  "cover": "/skill-media/rhea-vale-template/cover-v1.png",
+  "downloads": 0
+ },
+ {
   "slug": "github-scipilot-figure-skill",
   "title": "Scientific Figure Advisor",
   "summary": "Analyze data and the intended argument, select a chart type, draw and visually inspect scientific figures, then export them.",
@@ -553,7 +1039,7 @@
    "Claude"
   ],
   "cover": "/skill-media/seedance-2-5-video-director/frame-75.jpg",
-  "downloads": 3
+  "downloads": 5
  },
  {
   "slug": "shout-title-takeover-motion",
@@ -595,6 +1081,20 @@
   "downloads": 0
  },
  {
+  "slug": "snippet-reel-kit",
+  "title": "Snippet Reel Kit — 12.6s Silent Click-Through Reel",
+  "summary": "A 12.6-second silent click-through product reel, plus the configurable HyperFrames project that made it. JSON-driven palette, title, page count and beat timings; finished 1920x1080 MP4, poster and twelve key frames included. Free.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI"
+  ],
+  "cover": "/skill-media/snippet-reel-kit/cover.png",
+  "downloads": 0
+ },
+ {
   "slug": "springboard-cursor-fold-motion-template",
   "title": "SPRINGBOARD — Cursor Fold Motion Template",
   "summary": "Finished original template: 12-second cursor-click CTA. Two button panels fold continuously into a paper arrow and brand closing. Editable source, local Epilogue/GSAP and original silent MP4 included.",
@@ -605,6 +1105,46 @@
    "Cursor"
   ],
   "cover": "/skill-media/springboard-cursor-fold-motion-template/springboard-cover-20261022.png",
+  "downloads": 0
+ },
+ {
+  "slug": "micro-stroke-plot",
+  "title": "Stroke Plot",
+  "summary": "A line draws itself from a normalised path, then the end value lands — 6.5 s, azure + amber.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI",
+   "Windsurf",
+   "Cline",
+   "Aider",
+   "OpenCode",
+   "GitHub Copilot",
+   "Amp"
+  ],
+  "cover": "/skill-media/micro-stroke-plot/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "micro-stroke-plot-template",
+  "title": "Stroke Plot Template",
+  "summary": "The finished Stroke Plot cut as an editable project: one scene, one move, Azure & Amber. Open it, change the copy and the palette, re-render.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI",
+   "Windsurf",
+   "Cline",
+   "Aider",
+   "OpenCode",
+   "GitHub Copilot",
+   "Amp"
+  ],
+  "cover": "/skill-media/micro-stroke-plot-template/cover.png",
   "downloads": 0
  },
  {
@@ -621,6 +1161,46 @@
   "downloads": 0
  },
  {
+  "slug": "micro-sweep-type",
+  "title": "Sweep Type",
+  "summary": "A phrase locks together word by word while one band of light crosses it — 6.5 s, rose.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI",
+   "Windsurf",
+   "Cline",
+   "Aider",
+   "OpenCode",
+   "GitHub Copilot",
+   "Amp"
+  ],
+  "cover": "/skill-media/micro-sweep-type/cover.png",
+  "downloads": 0
+ },
+ {
+  "slug": "micro-sweep-type-template",
+  "title": "Sweep Type Template",
+  "summary": "The finished Sweep Type cut as an editable project: one scene, one move, Rose Gold. Open it, change the copy and the palette, re-render.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI",
+   "Windsurf",
+   "Cline",
+   "Aider",
+   "OpenCode",
+   "GitHub Copilot",
+   "Amp"
+  ],
+  "cover": "/skill-media/micro-sweep-type-template/cover.png",
+  "downloads": 0
+ },
+ {
   "slug": "takeoff-select-tap-motion-template",
   "title": "TAKEOFF — Select Tap Motion Template",
   "summary": "Finished original template: 12-second creative-card CTA. A three-card selector leads to a card tapping an abstract phone, then the play mark becomes a brand closing. Editable source, local Chivo/GSAP and original silent MP4 included.",
@@ -631,6 +1211,20 @@
    "Cursor"
   ],
   "cover": "/skill-media/takeoff-select-tap-motion-template/takeoff-cover-20261022.png",
+  "downloads": 0
+ },
+ {
+  "slug": "talky-site-film",
+  "title": "TALKY — Site Demo Film (Element Layer)",
+  "summary": "A 12.6s demo film of a real landing page, plus the project that renders it: page plane as camera, page elements that lift and fly, capture script and a velocity checker.",
+  "category": "video-animation",
+  "compatibility": [
+   "Claude",
+   "Codex",
+   "Cursor",
+   "Gemini CLI"
+  ],
+  "cover": "/skill-media/talky-site-film/cover.png",
   "downloads": 0
  },
  {
@@ -660,79 +1254,23 @@
   "downloads": 0
  },
  {
-  "slug": "toggle-segmented-shelf-motion-template",
-  "title": "TOGGLE — Segmented Shelf Motion Template",
-  "summary": "The original finished 12-second segmented-shelf UI film: HyperFrames HTML source with self-hosted Figtree and the original 1920×1080 MP4. Edit copy in place; keep the swing-in card, the three-beat handle slide and the one-accent rule.",
+  "slug": "micro-tile-in",
+  "title": "Tile Dissolve",
+  "summary": "A photograph resolves as 48 tiles in a seeded order, then the headline lands — 6.5 s, coral.",
   "category": "video-animation",
   "compatibility": [
-   "Codex",
-   "Claude",
-   "Cursor"
-  ],
-  "cover": "/skill-media/toggle-segmented-shelf-motion-template/toggle-cover-20261022.png",
-  "downloads": 0
- },
- {
-  "slug": "touchdown-gallery-pullback-motion-template",
-  "title": "TOUCHDOWN — Gallery Pullback Motion Template",
-  "summary": "Finished original template: 12-second gallery CTA. One hero pulls back into fifteen original geometric posters, then a two-button invitation appears over the softened gallery. Editable source, local Karla/GSAP and original silent MP4 included.",
-  "category": "video-animation",
-  "compatibility": [
-   "Codex",
-   "Claude",
-   "Cursor"
-  ],
-  "cover": "/skill-media/touchdown-gallery-pullback-motion-template/touchdown-cover-20261022.png",
-  "downloads": 0
- },
- {
-  "slug": "github-ui-ux-pro-max",
-  "title": "UI/UX Design System",
-  "summary": "Search industry and technology-specific palettes, typography, layouts and interaction rules to create a design system.",
-  "category": "web-pages",
-  "compatibility": [
    "Claude",
    "Codex",
-   "Cursor"
+   "Cursor",
+   "Gemini CLI",
+   "Windsurf",
+   "Cline",
+   "Aider",
+   "OpenCode",
+   "GitHub Copilot",
+   "Amp"
   ],
-  "cover": "/skill-media/github-ui-ux-pro-max/upstream-1a2c459b-1.png",
-  "downloads": 0
- },
- {
-  "slug": "weekly-review-system",
-  "title": "Weekly Review System",
-  "summary": "Run a GTD-style weekly review that closes open loops and returns a commitment health score.",
-  "category": "operations",
-  "compatibility": [
-   "Claude"
-  ],
-  "cover": "/skill-media/weekly-review-system/cover-en.svg",
-  "downloads": 0
- },
- {
-  "slug": "widgetco-corridor-collapse-motion-template",
-  "title": "WIDGETCO — Corridor Collapse Motion Template",
-  "summary": "Template: 12-second pine-green UI film where a slit widens into a portal, five same-aspect frames draw a corridor toward the viewer, three verbs rush out of the vanishing point and sweep past the camera, and the whole corridor collapses into one acid-lime tile above the product block. Editable source, local Archivo/GSAP and the original silent MP4 included.",
-  "category": "video-animation",
-  "compatibility": [
-   "Codex",
-   "Claude",
-   "Cursor"
-  ],
-  "cover": "/skill-media/widgetco-corridor-collapse-motion-template/widgetco-cover-20261022.png",
-  "downloads": 0
- },
- {
-  "slug": "wordplay-verb-flip-motion",
-  "title": "WORDPLAY — Verb Flip Motion Skill",
-  "summary": "Adapt the original 12-second verb-swap headline: replace the five headline words, the three flip verbs, the subline and palette while the word-by-word build with re-centring, the blocked verb, the squeeze-and-hard-swap rhythm and the lift-to-subline stay intact. Editable HyperFrames source and original MP4 included.",
-  "category": "video-animation",
-  "compatibility": [
-   "Codex",
-   "Claude",
-   "Cursor"
-  ],
-  "cover": "/skill-media/wordplay-verb-flip-motion/wordplay-cover-20261021.png",
+  "cover": "/skill-media/micro-tile-in/cover.png",
   "downloads": 0
  }
 ]
