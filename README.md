@@ -1,5 +1,7 @@
 # Awesome Agent Skills
 
+> **WorkSkill Open-Source Series:** [Awesome Claude 5.5 Videos](https://github.com/mailes/awesome-claude-5-5-videos) · **Awesome Agent Skills** · [Free AI Website Skills](https://github.com/mailes/free-ai-website-skills) · [Awesome Gemini 4 Argon](https://github.com/mailes/awesome-gemini-4-argon) · [Live Store & MCP](https://workskill.tools)
+
 **100 free, ready-to-run skills for Claude Code, Codex & Cursor — web pages, slides, videos, data, automation. One-click install, no signup.**
 
 Every entry below is a packaged agent skill you can install from
